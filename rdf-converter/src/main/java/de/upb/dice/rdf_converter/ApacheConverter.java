@@ -30,6 +30,8 @@ public class ApacheConverter {
 //			System.out.print(record.get(4) + ",");
 //			System.out.print(record.get(5) + ",");
 //			System.out.println();
+			System.out.println();
+
 			writer.write("<http://www.solide-projekt.de/resource/#" + record.get(0) + "> " + System.getProperty("line.separator"));
 		
 		}

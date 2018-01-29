@@ -9,7 +9,7 @@ import java.io.IOException;
 public class App {
 	public static void main(String[] args) throws IOException {
 
-		String datei = "src/main/resources/input.csv";
+		String datei = "src/main/resources/Abkuerzungen.csv";
 		ApacheConverter.ladeDatei(datei);
 	}
 }

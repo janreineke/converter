@@ -13,6 +13,5 @@ public class App {
 		String klassifizierung = "src/main/resources/Klassen.csv";
 		ApacheConverter.ladeDatei(datei, klassifizierung);
 
-		
 	}
 }

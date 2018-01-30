@@ -201,8 +201,6 @@
 <http://www.solide-projekt.de/resource/gf> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Einsatzkraft" .
 <http://www.solide-projekt.de/resource/all> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Abkürzung" .
 <http://www.solide-projekt.de/resource/ts> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Gerät" .
-<http://www.solide-projekt.de/resource/rdf ID> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "rdf-class" .
-<http://www.solide-projekt.de/resource/rdf ID> <http://www.w3.org/2000/01/rdf-schema#comment> "rdf comment" .
 <http://www.solide-projekt.de/resource/lb-cc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Feuerwehrfahrzeug" .
 <http://www.solide-projekt.de/resource/lbi1> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Einsatzkraft" .
 <http://www.solide-projekt.de/resource/kef> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Feuerwehrfahrzeug" .

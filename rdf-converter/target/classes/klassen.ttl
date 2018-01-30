@@ -4,7 +4,6 @@
 <http://www.solide-projekt.de/resource/Löschfahrzeug> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Feuerwehrfahrzeug> .
 <http://www.solide-projekt.de/resource/Vorschrift> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Objekt> .
 <http://www.solide-projekt.de/resource/Einrichtung> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Organisation> .
-<http://www.solide-projekt.de/resource/SubKlasse> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Klasse> .
 <http://www.solide-projekt.de/resource/Straße> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Ort> .
 <http://www.solide-projekt.de/resource/Hilfsorganisation> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Organisation> .
 <http://www.solide-projekt.de/resource/Anhängerfahrzeug> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.solide-projekt.de/resource/Feuerwehrfahrzeug> .

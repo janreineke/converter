@@ -70,7 +70,7 @@ public class ApacheConverter {
 		RDFDataMgr.write(new FileOutputStream(output_klassen), model0, Lang.NT);
 
 		final long zeitEnde = System.nanoTime();
-		System.out.println("Zeitverbrauch:" + (zeitEnde - zeitStart) + " NanoSekunden");
+		System.out.println("Zeitverbrauch:" + (double) (zeitEnde - zeitStart) / 1000000000 + " Sekunden");
 
 	}
 

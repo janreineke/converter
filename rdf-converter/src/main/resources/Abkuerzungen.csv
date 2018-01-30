@@ -1,4 +1,4 @@
-rdf ID,rdf Label1,rdf Label2,rdf comment,rdf-class,rdf-class
+rdfID,rdfLabel1,rdfLabel2,rdfComment,rdf-class1,rdf-class2
 bf,BF,Berufsfeuerwehr,,Hilfsorganisation,
 btf,BtF,Betriebsfeuerwehr,,Hilfsorganisation,
 betrfw,BetrFW,Betriebsfeuerwehr,,Hilfsorganisation,

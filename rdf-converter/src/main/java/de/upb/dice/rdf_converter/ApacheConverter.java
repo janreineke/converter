@@ -29,11 +29,11 @@ public class ApacheConverter {
 
 		// csv Abkürzungen einlesen
 		Reader in = new FileReader(dateiName);
-		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+		Iterable<CSVRecord> records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(in);
 
 		// csv Klassifzierung einlesen
 		Reader inKlassen = new FileReader(klassifizierung);
-		Iterable<CSVRecord> recordsKlassen = CSVFormat.DEFAULT.parse(inKlassen);
+		Iterable<CSVRecord> recordsKlassen = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(inKlassen);
 
 		final long zeitStart = System.nanoTime();
 

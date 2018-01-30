@@ -1,6 +1,5 @@
 package de.upb.dice.rdf_converter;
 
-import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,21 +17,32 @@ import org.apache.jena.vocabulary.RDFS;
 
 public class ApacheConverter {
 
-	public static void ladeDatei(String dateiName) throws IOException {
+	public static void ladeDatei(String dateiName, String klassifizierung) throws IOException {
 
-		File output = new File("src/main/resources/output.txt");
-		if(!output.exists())
-			output.createNewFile();
-		FileWriter writer = new FileWriter(output);
+	//	File output = new File("src/main/resources/output.txt");
+		//if(!output.exists())
+			//output.createNewFile();
+	//	FileWriter writer = new FileWriter(output);
 		
 		Reader in = new FileReader(dateiName);
 		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+		
+		Reader inKlassen = new FileReader(klassifizierung);
+		Iterable<CSVRecord> recordsKlassen = CSVFormat.DEFAULT.parse(inKlassen);
+		
 		final long zeitStart = System.nanoTime();
 		
+		Model model0 = ModelFactory.createDefaultModel();
 		Model model = ModelFactory.createDefaultModel();
 		Model model2 = ModelFactory.createDefaultModel();
 		
-		
+		for (CSVRecord reKlasse : recordsKlassen) {
+			
+			String subj = "http://www.solide-projekt.de/resource/" + reKlasse.get(0);
+			String obj = "http://www.solide-projekt.de/resource/" + reKlasse.get(1);
+			model0.add(new ResourceImpl(subj), RDFS.subClassOf, new ResourceImpl(obj));
+			
+		}
 		
 		
 		for (CSVRecord record : records) {
@@ -47,22 +57,16 @@ public class ApacheConverter {
 			
 			
 			
-//			System.out.print("<http://www.solide-projekt.de/resource/#" + record.get(0) + "> ");
-//			System.out.print("<http://www.w3.org/2000/01/rdf-schema#class" + record.get(1) + ">");
-//			System.out.print(record.get(2) + ",");
-//			System.out.print(record.get(3) + ",");
-//			System.out.print(record.get(4) + ",");
-//			System.out.print(record.get(5) + ",");
-//	System.out.println();
-	//		System.out.println();
 
-		//	writer.write("<http://www.solide-projekt.de/resource/" + record.get(0) + "> " + System.getProperty("line.separator"));
-		
 		}
+		
+		
+		
 		 RDFDataMgr.write(System.out, model,Lang.NT) ;
 		 RDFDataMgr.write(System.out, model2,Lang.NT) ;
-		writer.flush();
-		writer.close();
+		 RDFDataMgr.write(System.out, model0,Lang.NT) ;
+		 
+		 
 		final long zeitEnde= System.nanoTime();
 		System.out.println("Zeitverbrauch:" + (zeitEnde - zeitStart) + " NanoSekunden");
 		

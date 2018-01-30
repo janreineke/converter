@@ -10,8 +10,8 @@ public class App {
 	public static void main(String[] args) throws IOException {
 
 		String datei = "src/main/resources/Abkuerzungen.csv";
-		String outp = "src/main/resources/out.ttl";
-		ApacheConverter.ladeDatei(datei);
+		String klassifizierung = "src/main/resources/Klassen.csv";
+		ApacheConverter.ladeDatei(datei, klassifizierung);
 
 		
 	}

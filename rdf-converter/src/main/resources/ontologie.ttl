@@ -1,3 +1,1137 @@
+<http://www.solide-projekt.de/resource/grukw> <http://www.w3.org/2000/01/rdf-schema#label> "Gruppenkraftwagen (MTW)" .
+<http://www.solide-projekt.de/resource/grukw> <http://www.w3.org/2000/01/rdf-schema#label> "GruKW" .
+<http://www.solide-projekt.de/resource/gw-acs> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Atem-/Chemie-/ Strahlenschutz" .
+<http://www.solide-projekt.de/resource/gw-acs> <http://www.w3.org/2000/01/rdf-schema#label> "GW-ACS" .
+<http://www.solide-projekt.de/resource/asw> <http://www.w3.org/2000/01/rdf-schema#label> "Atemschutzwagen" .
+<http://www.solide-projekt.de/resource/asw> <http://www.w3.org/2000/01/rdf-schema#label> "ASW" .
+<http://www.solide-projekt.de/resource/sww> <http://www.w3.org/2000/01/rdf-schema#label> "Schaum-Wasserwerfer auf Anhänger (FwA-SWW)" .
+<http://www.solide-projekt.de/resource/sww> <http://www.w3.org/2000/01/rdf-schema#label> "SWW" .
+<http://www.solide-projekt.de/resource/k> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisstraße" .
+<http://www.solide-projekt.de/resource/k> <http://www.w3.org/2000/01/rdf-schema#label> "K" .
+<http://www.solide-projekt.de/resource/lbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbrandmeisterin" .
+<http://www.solide-projekt.de/resource/lbm1> <http://www.w3.org/2000/01/rdf-schema#label> "LBM" .
+<http://www.solide-projekt.de/resource/bor> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberrat" .
+<http://www.solide-projekt.de/resource/bor> <http://www.w3.org/2000/01/rdf-schema#label> "BOR" .
+<http://www.solide-projekt.de/resource/rh> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungshelfer" .
+<http://www.solide-projekt.de/resource/rh> <http://www.w3.org/2000/01/rdf-schema#label> "RH" .
+<http://www.solide-projekt.de/resource/fuk> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrunfallkasse" .
+<http://www.solide-projekt.de/resource/fuk> <http://www.w3.org/2000/01/rdf-schema#label> "FUK" .
+<http://www.solide-projekt.de/resource/kbz> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandschutz-Zentrale" .
+<http://www.solide-projekt.de/resource/kbz> <http://www.w3.org/2000/01/rdf-schema#label> "KBZ" .
+<http://www.solide-projekt.de/resource/lkw> <http://www.w3.org/2000/01/rdf-schema#label> "Lastkraftwagen (z.B. als GW-N)" .
+<http://www.solide-projekt.de/resource/lkw> <http://www.w3.org/2000/01/rdf-schema#label> "LKW" .
+<http://www.solide-projekt.de/resource/ef> <http://www.w3.org/2000/01/rdf-schema#label> "Entgiftungsfahrzeug" .
+<http://www.solide-projekt.de/resource/ef> <http://www.w3.org/2000/01/rdf-schema#label> "EF" .
+<http://www.solide-projekt.de/resource/ctif> <http://www.w3.org/2000/01/rdf-schema#label> "Internationales technisches Komitee für vorbeugenden Brandschutz und Feuerlöschwesen" .
+<http://www.solide-projekt.de/resource/ctif> <http://www.w3.org/2000/01/rdf-schema#label> "CTIF" .
+<http://www.solide-projekt.de/resource/rs> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungssanitäter" .
+<http://www.solide-projekt.de/resource/rs> <http://www.w3.org/2000/01/rdf-schema#label> "RS" .
+<http://www.solide-projekt.de/resource/ova> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbeamter vom Arlarmdienst" .
+<http://www.solide-projekt.de/resource/ova> <http://www.w3.org/2000/01/rdf-schema#label> "OVA" .
+<http://www.solide-projekt.de/resource/bf> <http://www.w3.org/2000/01/rdf-schema#label> "Berufsfeuerwehr" .
+<http://www.solide-projekt.de/resource/bf> <http://www.w3.org/2000/01/rdf-schema#label> "BF" .
+<http://www.solide-projekt.de/resource/lve> <http://www.w3.org/2000/01/rdf-schema#label> "Leiter vom Einsatzdienst" .
+<http://www.solide-projekt.de/resource/lve> <http://www.w3.org/2000/01/rdf-schema#label> "LvE" .
+<http://www.solide-projekt.de/resource/tsf-gw> <http://www.w3.org/2000/01/rdf-schema#label> "TSF mit Zusatzbeladung Technische Hilfeleistung" .
+<http://www.solide-projekt.de/resource/tsf-gw> <http://www.w3.org/2000/01/rdf-schema#label> "TSF-GW" .
+<http://www.solide-projekt.de/resource/lbd1> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbranddirektorin" .
+<http://www.solide-projekt.de/resource/lbd1> <http://www.w3.org/2000/01/rdf-schema#label> "LBD" .
+<http://www.solide-projekt.de/resource/bmi> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesminister des Inneren" .
+<http://www.solide-projekt.de/resource/bmi> <http://www.w3.org/2000/01/rdf-schema#label> "BMI" .
+<http://www.solide-projekt.de/resource/skw> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchkraftwagen (SW)" .
+<http://www.solide-projekt.de/resource/skw> <http://www.w3.org/2000/01/rdf-schema#label> "SKW" .
+<http://www.solide-projekt.de/resource/kelw> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophen-Einsatzleitwagen" .
+<http://www.solide-projekt.de/resource/kelw> <http://www.w3.org/2000/01/rdf-schema#label> "KELW" .
+<http://www.solide-projekt.de/resource/vu> <http://www.w3.org/2000/01/rdf-schema#label> "Verkehrsunfall" .
+<http://www.solide-projekt.de/resource/vu> <http://www.w3.org/2000/01/rdf-schema#label> "VU" .
+<http://www.solide-projekt.de/resource/jfaz> <http://www.w3.org/2000/01/rdf-schema#label> "Jugendfeuerwehrausbildungszentrum" .
+<http://www.solide-projekt.de/resource/jfaz> <http://www.w3.org/2000/01/rdf-schema#label> "JFAZ" .
+<http://www.solide-projekt.de/resource/fh> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrhaus" .
+<http://www.solide-projekt.de/resource/fh> <http://www.w3.org/2000/01/rdf-schema#label> "FH" .
+<http://www.solide-projekt.de/resource/wa> <http://www.w3.org/2000/01/rdf-schema#label> "Warnanlage" .
+<http://www.solide-projekt.de/resource/wa> <http://www.w3.org/2000/01/rdf-schema#label> "WA" .
+<http://www.solide-projekt.de/resource/wl> <http://www.w3.org/2000/01/rdf-schema#label> "Wechsellader(fahrzeug)" .
+<http://www.solide-projekt.de/resource/wl> <http://www.w3.org/2000/01/rdf-schema#label> "WL" .
+<http://www.solide-projekt.de/resource/mzfü> <http://www.w3.org/2000/01/rdf-schema#label> "Musikzugführer" .
+<http://www.solide-projekt.de/resource/mzfü> <http://www.w3.org/2000/01/rdf-schema#label> "MZFü" .
+<http://www.solide-projekt.de/resource/ww> <http://www.w3.org/2000/01/rdf-schema#label> "Werkstattwagen (GW-W(erkstatt))" .
+<http://www.solide-projekt.de/resource/ww> <http://www.w3.org/2000/01/rdf-schema#label> "WW" .
+<http://www.solide-projekt.de/resource/hal> <http://www.w3.org/2000/01/rdf-schema#label> "Halonlöscher" .
+<http://www.solide-projekt.de/resource/hal> <http://www.w3.org/2000/01/rdf-schema#label> "HAL" .
+<http://www.solide-projekt.de/resource/pst> <http://www.w3.org/2000/01/rdf-schema#label> "Polizei(autobahn)station" .
+<http://www.solide-projekt.de/resource/pst> <http://www.w3.org/2000/01/rdf-schema#label> "PST" .
+<http://www.solide-projekt.de/resource/na> <http://www.w3.org/2000/01/rdf-schema#label> "Notarzt" .
+<http://www.solide-projekt.de/resource/na> <http://www.w3.org/2000/01/rdf-schema#label> "NA" .
+<http://www.solide-projekt.de/resource/fükw> <http://www.w3.org/2000/01/rdf-schema#label> "Führungskraftwagen (ELW)" .
+<http://www.solide-projekt.de/resource/fükw> <http://www.w3.org/2000/01/rdf-schema#label> "FüKW" .
+<http://www.solide-projekt.de/resource/nef> <http://www.w3.org/2000/01/rdf-schema#label> "Notarzt-Einsatzfahrzeug" .
+<http://www.solide-projekt.de/resource/nef> <http://www.w3.org/2000/01/rdf-schema#label> "NEF" .
+<http://www.solide-projekt.de/resource/tw> <http://www.w3.org/2000/01/rdf-schema#label> "Taucherwagen" .
+<http://www.solide-projekt.de/resource/tw> <http://www.w3.org/2000/01/rdf-schema#label> "TW" .
+<http://www.solide-projekt.de/resource/spp> <http://www.w3.org/2000/01/rdf-schema#label> "Sprungpolster" .
+<http://www.solide-projekt.de/resource/spp> <http://www.w3.org/2000/01/rdf-schema#label> "SPP" .
+<http://www.solide-projekt.de/resource/lng> <http://www.w3.org/2000/01/rdf-schema#label> "Leitende Notarzt-Gruppe" .
+<http://www.solide-projekt.de/resource/lng> <http://www.w3.org/2000/01/rdf-schema#label> "LNG" .
+<http://www.solide-projekt.de/resource/limaf> <http://www.w3.org/2000/01/rdf-schema#label> "Lichtmastf. (LIMA(FLF  FLW  FLM-F))" .
+<http://www.solide-projekt.de/resource/limaf> <http://www.w3.org/2000/01/rdf-schema#label> "LimaF" .
+<http://www.solide-projekt.de/resource/hd-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "Hochdruckrohr" .
+<http://www.solide-projekt.de/resource/hd-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "HD-Rohr" .
+<http://www.solide-projekt.de/resource/gw-awg> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Atemschutz/Wasserrettung/Gasschutz" .
+<http://www.solide-projekt.de/resource/gw-awg> <http://www.w3.org/2000/01/rdf-schema#label> "GW-AWG" .
+<http://www.solide-projekt.de/resource/aip> <http://www.w3.org/2000/01/rdf-schema#label> "Arzt im Praktikum" .
+<http://www.solide-projekt.de/resource/aip> <http://www.w3.org/2000/01/rdf-schema#label> "AiP" .
+<http://www.solide-projekt.de/resource/gwa> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagenanhänger" .
+<http://www.solide-projekt.de/resource/gwa> <http://www.w3.org/2000/01/rdf-schema#label> "GWA" .
+<http://www.solide-projekt.de/resource/ftz> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrtechnische Zentrale" .
+<http://www.solide-projekt.de/resource/ftz> <http://www.w3.org/2000/01/rdf-schema#label> "FTZ" .
+<http://www.solide-projekt.de/resource/asr> <http://www.w3.org/2000/01/rdf-schema#label> "Antischlupfreglung" .
+<http://www.solide-projekt.de/resource/asr> <http://www.w3.org/2000/01/rdf-schema#label> "ASR" .
+<http://www.solide-projekt.de/resource/fp1> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerpatsche" .
+<http://www.solide-projekt.de/resource/fp1> <http://www.w3.org/2000/01/rdf-schema#label> "FP" .
+<http://www.solide-projekt.de/resource/blng> <http://www.w3.org/2000/01/rdf-schema#label> "Beauftragter für die Leitende Notarzt- Gruppe" .
+<http://www.solide-projekt.de/resource/blng> <http://www.w3.org/2000/01/rdf-schema#label> "BLNG" .
+<http://www.solide-projekt.de/resource/stbr1> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandrätin" .
+<http://www.solide-projekt.de/resource/stbr1> <http://www.w3.org/2000/01/rdf-schema#label> "StBR" .
+<http://www.solide-projekt.de/resource/kw> <http://www.w3.org/2000/01/rdf-schema#label> "Kranwagen" .
+<http://www.solide-projekt.de/resource/kw> <http://www.w3.org/2000/01/rdf-schema#label> "KW" .
+<http://www.solide-projekt.de/resource/lsg-t> <http://www.w3.org/2000/01/rdf-schema#label> "Leichtschaumgenerator (tragbar)" .
+<http://www.solide-projekt.de/resource/lsg-t> <http://www.w3.org/2000/01/rdf-schema#label> "LSG-T" .
+<http://www.solide-projekt.de/resource/vgw> <http://www.w3.org/2000/01/rdf-schema#label> "Vorausgerätewagen" .
+<http://www.solide-projekt.de/resource/vgw> <http://www.w3.org/2000/01/rdf-schema#label> "VGW" .
+<http://www.solide-projekt.de/resource/rrw> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungs-Rüstwagen (FlughafenFeuerwehr)" .
+<http://www.solide-projekt.de/resource/rrw> <http://www.w3.org/2000/01/rdf-schema#label> "RRW" .
+<http://www.solide-projekt.de/resource/ba> <http://www.w3.org/2000/01/rdf-schema#label> "Brandamtmann" .
+<http://www.solide-projekt.de/resource/ba> <http://www.w3.org/2000/01/rdf-schema#label> "BA" .
+<http://www.solide-projekt.de/resource/el> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzleitung" .
+<http://www.solide-projekt.de/resource/el> <http://www.w3.org/2000/01/rdf-schema#label> "EL" .
+<http://www.solide-projekt.de/resource/lz-w> <http://www.w3.org/2000/01/rdf-schema#label> "Löschzug-Wasser" .
+<http://www.solide-projekt.de/resource/lz-w> <http://www.w3.org/2000/01/rdf-schema#label> "LZ-W" .
+<http://www.solide-projekt.de/resource/kfz1> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisfeuerwehrzentrale" .
+<http://www.solide-projekt.de/resource/kfz1> <http://www.w3.org/2000/01/rdf-schema#label> "KFZ" .
+<http://www.solide-projekt.de/resource/spzfü1> <http://www.w3.org/2000/01/rdf-schema#label> "Spielmannszugführerin" .
+<http://www.solide-projekt.de/resource/spzfü1> <http://www.w3.org/2000/01/rdf-schema#label> "SpZFü" .
+<http://www.solide-projekt.de/resource/boar1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberamtsrätin" .
+<http://www.solide-projekt.de/resource/boar1> <http://www.w3.org/2000/01/rdf-schema#label> "BOAR" .
+<http://www.solide-projekt.de/resource/rw-3> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen 3 Staffelbesatzung" .
+<http://www.solide-projekt.de/resource/rw-3> <http://www.w3.org/2000/01/rdf-schema#label> "RW 3 ST" .
+<http://www.solide-projekt.de/resource/tuis> <http://www.w3.org/2000/01/rdf-schema#label> "Transport- Unfall- Informations- und Hilfeleistungssystem der chemischen Industrie" .
+<http://www.solide-projekt.de/resource/tuis> <http://www.w3.org/2000/01/rdf-schema#label> "TUIS" .
+<http://www.solide-projekt.de/resource/br1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandrätin" .
+<http://www.solide-projekt.de/resource/br1> <http://www.w3.org/2000/01/rdf-schema#label> "BR" .
+<http://www.solide-projekt.de/resource/rlst> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungsleitstelle" .
+<http://www.solide-projekt.de/resource/rlst> <http://www.w3.org/2000/01/rdf-schema#label> "RLst" .
+<http://www.solide-projekt.de/resource/ab-k> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Kohlendioxid" .
+<http://www.solide-projekt.de/resource/ab-k> <http://www.w3.org/2000/01/rdf-schema#label> "AB-K" .
+<http://www.solide-projekt.de/resource/mhd> <http://www.w3.org/2000/01/rdf-schema#label> "Malteser-Hilfsdienst" .
+<http://www.solide-projekt.de/resource/mhd> <http://www.w3.org/2000/01/rdf-schema#label> "MHD" .
+<http://www.solide-projekt.de/resource/rw-schiene> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen für Eisenbahnunfälle" .
+<http://www.solide-projekt.de/resource/rw-schiene> <http://www.w3.org/2000/01/rdf-schema#label> "RW-Schiene" .
+<http://www.solide-projekt.de/resource/gw-w1> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Werkstatt" .
+<http://www.solide-projekt.de/resource/gw-w1> <http://www.w3.org/2000/01/rdf-schema#label> "GW-W" .
+<http://www.solide-projekt.de/resource/stbi1> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandinspektorin" .
+<http://www.solide-projekt.de/resource/stbi1> <http://www.w3.org/2000/01/rdf-schema#label> "StBI" .
+<http://www.solide-projekt.de/resource/bw> <http://www.w3.org/2000/01/rdf-schema#label> "Bootswagen (BF Frankfurt)" .
+<http://www.solide-projekt.de/resource/bw> <http://www.w3.org/2000/01/rdf-schema#label> "BW" .
+<http://www.solide-projekt.de/resource/fez> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehreinsatzzentrale" .
+<http://www.solide-projekt.de/resource/fez> <http://www.w3.org/2000/01/rdf-schema#label> "FEZ" .
+<http://www.solide-projekt.de/resource/csa> <http://www.w3.org/2000/01/rdf-schema#label> "Chemieschutzanzug" .
+<http://www.solide-projekt.de/resource/csa> <http://www.w3.org/2000/01/rdf-schema#label> "CSA" .
+<http://www.solide-projekt.de/resource/seg> <http://www.w3.org/2000/01/rdf-schema#label> "Schnelleinsatzgruppe" .
+<http://www.solide-projekt.de/resource/seg> <http://www.w3.org/2000/01/rdf-schema#label> "SEG" .
+<http://www.solide-projekt.de/resource/sp> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungs-Spreizer" .
+<http://www.solide-projekt.de/resource/sp> <http://www.w3.org/2000/01/rdf-schema#label> "SP" .
+<http://www.solide-projekt.de/resource/btf> <http://www.w3.org/2000/01/rdf-schema#label> "Betriebsfeuerwehr" .
+<http://www.solide-projekt.de/resource/btf> <http://www.w3.org/2000/01/rdf-schema#label> "BtF" .
+<http://www.solide-projekt.de/resource/rw-tuis> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen der in das TUIS System eingebunden ist" .
+<http://www.solide-projekt.de/resource/rw-tuis> <http://www.w3.org/2000/01/rdf-schema#label> "RW-TUIS" .
+<http://www.solide-projekt.de/resource/bing1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandingenieurin" .
+<http://www.solide-projekt.de/resource/bing1> <http://www.w3.org/2000/01/rdf-schema#label> "BIng" .
+<http://www.solide-projekt.de/resource/lfi> <http://www.w3.org/2000/01/rdf-schema#label> "Landesfeuerwehrinspekteur" .
+<http://www.solide-projekt.de/resource/lfi> <http://www.w3.org/2000/01/rdf-schema#label> "LFI" .
+<http://www.solide-projekt.de/resource/gw-t1> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Transport" .
+<http://www.solide-projekt.de/resource/gw-t1> <http://www.w3.org/2000/01/rdf-schema#label> "GW-T" .
+<http://www.solide-projekt.de/resource/fnfw> <http://www.w3.org/2000/01/rdf-schema#label> "Fachnormausschuß Feuerwehrwesen" .
+<http://www.solide-projekt.de/resource/fnfw> <http://www.w3.org/2000/01/rdf-schema#label> "FNFW" .
+<http://www.solide-projekt.de/resource/gkw> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätekraftwagen" .
+<http://www.solide-projekt.de/resource/gkw> <http://www.w3.org/2000/01/rdf-schema#label> "GKW" .
+<http://www.solide-projekt.de/resource/me> <http://www.w3.org/2000/01/rdf-schema#label> "Melder" .
+<http://www.solide-projekt.de/resource/me> <http://www.w3.org/2000/01/rdf-schema#label> "Me" .
+<http://www.solide-projekt.de/resource/ortsbm> <http://www.w3.org/2000/01/rdf-schema#label> "Ortsbrandmeister" .
+<http://www.solide-projekt.de/resource/ortsbm> <http://www.w3.org/2000/01/rdf-schema#label> "OrtsBM" .
+<http://www.solide-projekt.de/resource/ks2> <http://www.w3.org/2000/01/rdf-schema#label> "Kübelspritze" .
+<http://www.solide-projekt.de/resource/ks2> <http://www.w3.org/2000/01/rdf-schema#label> "KS" .
+<http://www.solide-projekt.de/resource/ark> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollkipper" .
+<http://www.solide-projekt.de/resource/ark> <http://www.w3.org/2000/01/rdf-schema#label> "ARK" .
+<http://www.solide-projekt.de/resource/gw-funk> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Funktechnik" .
+<http://www.solide-projekt.de/resource/gw-funk> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Funk" .
+<http://www.solide-projekt.de/resource/brshg> <http://www.w3.org/2000/01/rdf-schema#label> "Brandschutzhilfeleistungsgesetz" .
+<http://www.solide-projekt.de/resource/brshg> <http://www.w3.org/2000/01/rdf-schema#label> "BrSHG" .
+<http://www.solide-projekt.de/resource/gel> <http://www.w3.org/2000/01/rdf-schema#label> "Gesamteinsatzleitung" .
+<http://www.solide-projekt.de/resource/gel> <http://www.w3.org/2000/01/rdf-schema#label> "GEL" .
+<http://www.solide-projekt.de/resource/sbr> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandrat" .
+<http://www.solide-projekt.de/resource/sbr> <http://www.w3.org/2000/01/rdf-schema#label> "SBR" .
+<http://www.solide-projekt.de/resource/bi1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandinspektorin" .
+<http://www.solide-projekt.de/resource/bi1> <http://www.w3.org/2000/01/rdf-schema#label> "BI" .
+<http://www.solide-projekt.de/resource/tm1> <http://www.w3.org/2000/01/rdf-schema#label> "Teleskopmast mit Korb" .
+<http://www.solide-projekt.de/resource/tm1> <http://www.w3.org/2000/01/rdf-schema#label> "TM" .
+<http://www.solide-projekt.de/resource/befü1> <http://www.w3.org/2000/01/rdf-schema#label> "Bereichsführerin" .
+<http://www.solide-projekt.de/resource/befü1> <http://www.w3.org/2000/01/rdf-schema#label> "BeFü" .
+<http://www.solide-projekt.de/resource/gew> <http://www.w3.org/2000/01/rdf-schema#label> "Großeinsatzw.(z.B ELW 3  GKTW) " .
+<http://www.solide-projekt.de/resource/gew> <http://www.w3.org/2000/01/rdf-schema#label> "GEW" .
+<http://www.solide-projekt.de/resource/kats-dv> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophenschutz-Dienstvorschrift" .
+<http://www.solide-projekt.de/resource/kats-dv> <http://www.w3.org/2000/01/rdf-schema#label> "KatS-DV" .
+<http://www.solide-projekt.de/resource/sfi> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtfeuerwehrinspekteur" .
+<http://www.solide-projekt.de/resource/sfi> <http://www.w3.org/2000/01/rdf-schema#label> "SFI" .
+<http://www.solide-projekt.de/resource/fms> <http://www.w3.org/2000/01/rdf-schema#label> "Funkmeldesystem" .
+<http://www.solide-projekt.de/resource/fms> <http://www.w3.org/2000/01/rdf-schema#label> "FMS" .
+<http://www.solide-projekt.de/resource/kowg> <http://www.w3.org/2000/01/rdf-schema#label> "Kommandowagen (ELW Kdow)" .
+<http://www.solide-projekt.de/resource/kowg> <http://www.w3.org/2000/01/rdf-schema#label> "KoWg" .
+<http://www.solide-projekt.de/resource/asb> <http://www.w3.org/2000/01/rdf-schema#label> "Arbeiter-Samariter-Bund" .
+<http://www.solide-projekt.de/resource/asb> <http://www.w3.org/2000/01/rdf-schema#label> "ASB" .
+<http://www.solide-projekt.de/resource/abt> <http://www.w3.org/2000/01/rdf-schema#label> "Abteilung" .
+<http://www.solide-projekt.de/resource/abt> <http://www.w3.org/2000/01/rdf-schema#label> "Abt" .
+<http://www.solide-projekt.de/resource/bbi1> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbrandinspektorin" .
+<http://www.solide-projekt.de/resource/bbi1> <http://www.w3.org/2000/01/rdf-schema#label> "BBI" .
+<http://www.solide-projekt.de/resource/rw-u> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen-Umweltschutz" .
+<http://www.solide-projekt.de/resource/rw-u> <http://www.w3.org/2000/01/rdf-schema#label> "RW-U" .
+<http://www.solide-projekt.de/resource/kg> <http://www.w3.org/2000/01/rdf-schema#label> "Kellergeschoß" .
+<http://www.solide-projekt.de/resource/kg> <http://www.w3.org/2000/01/rdf-schema#label> "KG" .
+<http://www.solide-projekt.de/resource/stm> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchtrupp-Mann" .
+<http://www.solide-projekt.de/resource/stm> <http://www.w3.org/2000/01/rdf-schema#label> "STM" .
+<http://www.solide-projekt.de/resource/hbi> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptbrandinspektor" .
+<http://www.solide-projekt.de/resource/hbi> <http://www.w3.org/2000/01/rdf-schema#label> "HBI" .
+<http://www.solide-projekt.de/resource/rw4> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungswache" .
+<http://www.solide-projekt.de/resource/rw4> <http://www.w3.org/2000/01/rdf-schema#label> "RW" .
+<http://www.solide-projekt.de/resource/kbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandmeisterin" .
+<http://www.solide-projekt.de/resource/kbm1> <http://www.w3.org/2000/01/rdf-schema#label> "KBM" .
+<http://www.solide-projekt.de/resource/uba> <http://www.w3.org/2000/01/rdf-schema#label> "Umweltbundesamt" .
+<http://www.solide-projekt.de/resource/uba> <http://www.w3.org/2000/01/rdf-schema#label> "UBA" .
+<http://www.solide-projekt.de/resource/bdir> <http://www.w3.org/2000/01/rdf-schema#label> "Branddirektion" .
+<http://www.solide-projekt.de/resource/bdir> <http://www.w3.org/2000/01/rdf-schema#label> "Bdir" .
+<http://www.solide-projekt.de/resource/eg> <http://www.w3.org/2000/01/rdf-schema#label> "Erdgeschoß" .
+<http://www.solide-projekt.de/resource/eg> <http://www.w3.org/2000/01/rdf-schema#label> "EG" .
+<http://www.solide-projekt.de/resource/gw-öl> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Öl" .
+<http://www.solide-projekt.de/resource/gw-öl> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Öl" .
+<http://www.solide-projekt.de/resource/lz-r> <http://www.w3.org/2000/01/rdf-schema#label> "Löschzug-Retten" .
+<http://www.solide-projekt.de/resource/lz-r> <http://www.w3.org/2000/01/rdf-schema#label> "LZ-R" .
+<http://www.solide-projekt.de/resource/lp24_3> <http://www.w3.org/2000/01/rdf-schema#label> "Lenzpumpe 24/3" .
+<http://www.solide-projekt.de/resource/lp24_3> <http://www.w3.org/2000/01/rdf-schema#label> "LP 24/3" .
+<http://www.solide-projekt.de/resource/fwa1> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrangehöriger" .
+<http://www.solide-projekt.de/resource/fwa1> <http://www.w3.org/2000/01/rdf-schema#label> "FWA" .
+<http://www.solide-projekt.de/resource/wtf> <http://www.w3.org/2000/01/rdf-schema#label> "Wassertransportfahrzeug" .
+<http://www.solide-projekt.de/resource/wtf> <http://www.w3.org/2000/01/rdf-schema#label> "WTF" .
+<http://www.solide-projekt.de/resource/obi> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandinspektor" .
+<http://www.solide-projekt.de/resource/obi> <http://www.w3.org/2000/01/rdf-schema#label> "OBI" .
+<http://www.solide-projekt.de/resource/olm1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberlöschmeisterin" .
+<http://www.solide-projekt.de/resource/olm1> <http://www.w3.org/2000/01/rdf-schema#label> "OLM" .
+<http://www.solide-projekt.de/resource/boar> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberamtsrat" .
+<http://www.solide-projekt.de/resource/boar> <http://www.w3.org/2000/01/rdf-schema#label> "BOAR" .
+<http://www.solide-projekt.de/resource/srd> <http://www.w3.org/2000/01/rdf-schema#label> "Spezieller Rettungsd. (zur Rettung von Personen aus großen Höhen)" .
+<http://www.solide-projekt.de/resource/srd> <http://www.w3.org/2000/01/rdf-schema#label> "SRD" .
+<http://www.solide-projekt.de/resource/lbm> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbrandmeister" .
+<http://www.solide-projekt.de/resource/lbm> <http://www.w3.org/2000/01/rdf-schema#label> "LBM" .
+<http://www.solide-projekt.de/resource/br> <http://www.w3.org/2000/01/rdf-schema#label> "Brandrat" .
+<http://www.solide-projekt.de/resource/br> <http://www.w3.org/2000/01/rdf-schema#label> "BR" .
+<http://www.solide-projekt.de/resource/aab> <http://www.w3.org/2000/01/rdf-schema#label> "Amtliches Auskunftbüro" .
+<http://www.solide-projekt.de/resource/aab> <http://www.w3.org/2000/01/rdf-schema#label> "AAB" .
+<http://www.solide-projekt.de/resource/bm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "B Mehrzweckstrahlrohr" .
+<http://www.solide-projekt.de/resource/bm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "BM-Rohr" .
+<http://www.solide-projekt.de/resource/bving1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandverhütungsingenieurin" .
+<http://www.solide-projekt.de/resource/bving1> <http://www.w3.org/2000/01/rdf-schema#label> "BVIng" .
+<http://www.solide-projekt.de/resource/st1> <http://www.w3.org/2000/01/rdf-schema#label> "Staffel (1/5)" .
+<http://www.solide-projekt.de/resource/st1> <http://www.w3.org/2000/01/rdf-schema#label> "St" .
+<http://www.solide-projekt.de/resource/wari> <http://www.w3.org/2000/01/rdf-schema#label> "Warn-Rundfunk-Informationssystem" .
+<http://www.solide-projekt.de/resource/wari> <http://www.w3.org/2000/01/rdf-schema#label> "WARI" .
+<http://www.solide-projekt.de/resource/ffa> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrfrau-Anwärterin" .
+<http://www.solide-projekt.de/resource/ffa> <http://www.w3.org/2000/01/rdf-schema#label> "FFA" .
+<http://www.solide-projekt.de/resource/flw> <http://www.w3.org/2000/01/rdf-schema#label> "Flutlichtwagen (Lim(a)F)" .
+<http://www.solide-projekt.de/resource/flw> <http://www.w3.org/2000/01/rdf-schema#label> "FLW" .
+<http://www.solide-projekt.de/resource/wf1> <http://www.w3.org/2000/01/rdf-schema#label> "Werkfeuerwehr" .
+<http://www.solide-projekt.de/resource/wf1> <http://www.w3.org/2000/01/rdf-schema#label> "WF" .
+<http://www.solide-projekt.de/resource/ab-rüst> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter mit Rüstmaterial" .
+<http://www.solide-projekt.de/resource/ab-rüst> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Rüst" .
+<http://www.solide-projekt.de/resource/wb> <http://www.w3.org/2000/01/rdf-schema#label> "Wechselbehälter (AB)" .
+<http://www.solide-projekt.de/resource/wb> <http://www.w3.org/2000/01/rdf-schema#label> "WB" .
+<http://www.solide-projekt.de/resource/sbm> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandmeister" .
+<http://www.solide-projekt.de/resource/sbm> <http://www.w3.org/2000/01/rdf-schema#label> "SBM" .
+<http://www.solide-projekt.de/resource/tra> <http://www.w3.org/2000/01/rdf-schema#label> "Transportanhänger" .
+<http://www.solide-projekt.de/resource/tra> <http://www.w3.org/2000/01/rdf-schema#label> "TRA" .
+<http://www.solide-projekt.de/resource/btw> <http://www.w3.org/2000/01/rdf-schema#label> "Behindertentransportwagen" .
+<http://www.solide-projekt.de/resource/btw> <http://www.w3.org/2000/01/rdf-schema#label> "BTW" .
+<http://www.solide-projekt.de/resource/kategg> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetz über die Erweiterung des Katastrophenschutzes" .
+<http://www.solide-projekt.de/resource/kategg> <http://www.w3.org/2000/01/rdf-schema#label> "KategG" .
+<http://www.solide-projekt.de/resource/rtk> <http://www.w3.org/2000/01/rdf-schema#label> "Rundumleuchten-Ton-Kombination" .
+<http://www.solide-projekt.de/resource/rtk> <http://www.w3.org/2000/01/rdf-schema#label> "RTK" .
+<http://www.solide-projekt.de/resource/mtw-p> <http://www.w3.org/2000/01/rdf-schema#label> "MTW mit mehreren PA's " .
+<http://www.solide-projekt.de/resource/mtw-p> <http://www.w3.org/2000/01/rdf-schema#label> "MTW-P" .
+<http://www.solide-projekt.de/resource/kdt> <http://www.w3.org/2000/01/rdf-schema#label> "Kommandant" .
+<http://www.solide-projekt.de/resource/kdt> <http://www.w3.org/2000/01/rdf-schema#label> "Kdt" .
+<http://www.solide-projekt.de/resource/ab-gsg> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Gefahrgut" .
+<http://www.solide-projekt.de/resource/ab-gsg> <http://www.w3.org/2000/01/rdf-schema#label> "AB-GSG" .
+<http://www.solide-projekt.de/resource/ab-pritsche> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter mit Ladefläche" .
+<http://www.solide-projekt.de/resource/ab-pritsche> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Pritsche" .
+<http://www.solide-projekt.de/resource/tm> <http://www.w3.org/2000/01/rdf-schema#label> "Truppmann" .
+<http://www.solide-projekt.de/resource/tm> <http://www.w3.org/2000/01/rdf-schema#label> "TM" .
+<http://www.solide-projekt.de/resource/gw-dekon> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Dekontamination" .
+<http://www.solide-projekt.de/resource/gw-dekon> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Dekon" .
+<http://www.solide-projekt.de/resource/lb1> <http://www.w3.org/2000/01/rdf-schema#label> "Leiterbühne" .
+<http://www.solide-projekt.de/resource/lb1> <http://www.w3.org/2000/01/rdf-schema#label> "LB" .
+<http://www.solide-projekt.de/resource/mlw> <http://www.w3.org/2000/01/rdf-schema#label> "Meßleitwagen" .
+<http://www.solide-projekt.de/resource/mlw> <http://www.w3.org/2000/01/rdf-schema#label> "MLW" .
+<http://www.solide-projekt.de/resource/lgf> <http://www.w3.org/2000/01/rdf-schema#label> "Löschgruppenführer" .
+<http://www.solide-projekt.de/resource/lgf> <http://www.w3.org/2000/01/rdf-schema#label> "LGF" .
+<http://www.solide-projekt.de/resource/stbi> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandinspektor" .
+<http://www.solide-projekt.de/resource/stbi> <http://www.w3.org/2000/01/rdf-schema#label> "StBI" .
+<http://www.solide-projekt.de/resource/ab-t-g> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Tank-Gefahrgut" .
+<http://www.solide-projekt.de/resource/ab-t-g> <http://www.w3.org/2000/01/rdf-schema#label> "AB-T-G" .
+<http://www.solide-projekt.de/resource/ldf> <http://www.w3.org/2000/01/rdf-schema#label> "Leiter der Feuerwehr" .
+<http://www.solide-projekt.de/resource/ldf> <http://www.w3.org/2000/01/rdf-schema#label> "LdF" .
+<http://www.solide-projekt.de/resource/agbf> <http://www.w3.org/2000/01/rdf-schema#label> "Arbeitsgemeinschaft der Leiter der Berufsfeuerwehren" .
+<http://www.solide-projekt.de/resource/agbf> <http://www.w3.org/2000/01/rdf-schema#label> "AGBF" .
+<http://www.solide-projekt.de/resource/itw> <http://www.w3.org/2000/01/rdf-schema#label> "Infektionskrankentransportwagen" .
+<http://www.solide-projekt.de/resource/itw> <http://www.w3.org/2000/01/rdf-schema#label> "ITW" .
+<http://www.solide-projekt.de/resource/bkw> <http://www.w3.org/2000/01/rdf-schema#label> "Bestattungskraftwagen" .
+<http://www.solide-projekt.de/resource/bkw> <http://www.w3.org/2000/01/rdf-schema#label> "BKW" .
+<http://www.solide-projekt.de/resource/atrkw> <http://www.w3.org/2000/01/rdf-schema#label> "Arzttruppkraftwagen" .
+<http://www.solide-projekt.de/resource/atrkw> <http://www.w3.org/2000/01/rdf-schema#label> "ATrKW" .
+<http://www.solide-projekt.de/resource/dfm> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsches Feuerwehrmuseum" .
+<http://www.solide-projekt.de/resource/dfm> <http://www.w3.org/2000/01/rdf-schema#label> "DFM" .
+<http://www.solide-projekt.de/resource/imis> <http://www.w3.org/2000/01/rdf-schema#label> "Integriertes Meß- und Informationssystem des Bundes" .
+<http://www.solide-projekt.de/resource/imis> <http://www.w3.org/2000/01/rdf-schema#label> "IMIS" .
+<http://www.solide-projekt.de/resource/gw-a> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Atemschutz" .
+<http://www.solide-projekt.de/resource/gw-a> <http://www.w3.org/2000/01/rdf-schema#label> "GW-A" .
+<http://www.solide-projekt.de/resource/fug> <http://www.w3.org/2000/01/rdf-schema#label> "Funkgerät" .
+<http://www.solide-projekt.de/resource/fug> <http://www.w3.org/2000/01/rdf-schema#label> "FuG" .
+<http://www.solide-projekt.de/resource/fekw> <http://www.w3.org/2000/01/rdf-schema#label> "Fernsprechkraftwagen (zum Feldkabelbau)" .
+<http://www.solide-projekt.de/resource/fekw> <http://www.w3.org/2000/01/rdf-schema#label> "Fekw" .
+<http://www.solide-projekt.de/resource/nast> <http://www.w3.org/2000/01/rdf-schema#label> "Nachalarmierungsstelle" .
+<http://www.solide-projekt.de/resource/nast> <http://www.w3.org/2000/01/rdf-schema#label> "NaSt" .
+<http://www.solide-projekt.de/resource/gw-l> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Licht" .
+<http://www.solide-projekt.de/resource/gw-l> <http://www.w3.org/2000/01/rdf-schema#label> "GW-L" .
+<http://www.solide-projekt.de/resource/fmzt> <http://www.w3.org/2000/01/rdf-schema#label> "Fernmeldezentrale" .
+<http://www.solide-projekt.de/resource/fmzt> <http://www.w3.org/2000/01/rdf-schema#label> "FmZt" .
+<http://www.solide-projekt.de/resource/bass> <http://www.w3.org/2000/01/rdf-schema#label> "Bradassessor" .
+<http://www.solide-projekt.de/resource/bass> <http://www.w3.org/2000/01/rdf-schema#label> "BAss" .
+<http://www.solide-projekt.de/resource/hff> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptfeuerwehrfrau" .
+<http://www.solide-projekt.de/resource/hff> <http://www.w3.org/2000/01/rdf-schema#label> "HFF" .
+<http://www.solide-projekt.de/resource/ortsbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Ortsbrandmeisterin" .
+<http://www.solide-projekt.de/resource/ortsbm1> <http://www.w3.org/2000/01/rdf-schema#label> "OrtsBM" .
+<http://www.solide-projekt.de/resource/obd> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbranddirektor" .
+<http://www.solide-projekt.de/resource/obd> <http://www.w3.org/2000/01/rdf-schema#label> "OBD" .
+<http://www.solide-projekt.de/resource/sw-tr> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchwagen mit Truppbesatzung" .
+<http://www.solide-projekt.de/resource/sw-tr> <http://www.w3.org/2000/01/rdf-schema#label> "SW-Tr" .
+<http://www.solide-projekt.de/resource/rz> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstzug (z.B. ELW + RW + TLF + KW)" .
+<http://www.solide-projekt.de/resource/rz> <http://www.w3.org/2000/01/rdf-schema#label> "RZ" .
+<http://www.solide-projekt.de/resource/fkdow> <http://www.w3.org/2000/01/rdf-schema#label> "Funkkommandowagen (FKW)" .
+<http://www.solide-projekt.de/resource/fkdow> <http://www.w3.org/2000/01/rdf-schema#label> "Fkdow" .
+<http://www.solide-projekt.de/resource/ab-a> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Atemschutz" .
+<http://www.solide-projekt.de/resource/ab-a> <http://www.w3.org/2000/01/rdf-schema#label> "AB-A" .
+<http://www.solide-projekt.de/resource/gw-w> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Wasserrettung" .
+<http://www.solide-projekt.de/resource/gw-w> <http://www.w3.org/2000/01/rdf-schema#label> "GW-W" .
+<http://www.solide-projekt.de/resource/zb1> <http://www.w3.org/2000/01/rdf-schema#label> "Ziviler Bevölkerungsschutz" .
+<http://www.solide-projekt.de/resource/zb1> <http://www.w3.org/2000/01/rdf-schema#label> "ZB" .
+<http://www.solide-projekt.de/resource/regbd> <http://www.w3.org/2000/01/rdf-schema#label> "Regierungsbranddirektor" .
+<http://www.solide-projekt.de/resource/regbd> <http://www.w3.org/2000/01/rdf-schema#label> "RegBD" .
+<http://www.solide-projekt.de/resource/risc> <http://www.w3.org/2000/01/rdf-schema#label> "Rotterdam International Safety Centre " .
+<http://www.solide-projekt.de/resource/risc> <http://www.w3.org/2000/01/rdf-schema#label> "RISC" .
+<http://www.solide-projekt.de/resource/rvo> <http://www.w3.org/2000/01/rdf-schema#label> "Reichsversicherungsordnung" .
+<http://www.solide-projekt.de/resource/rvo> <http://www.w3.org/2000/01/rdf-schema#label> "RVO" .
+<http://www.solide-projekt.de/resource/bm> <http://www.w3.org/2000/01/rdf-schema#label> "Brandmeister" .
+<http://www.solide-projekt.de/resource/bm> <http://www.w3.org/2000/01/rdf-schema#label> "BM" .
+<http://www.solide-projekt.de/resource/ex> <http://www.w3.org/2000/01/rdf-schema#label> "Explosionsgeschützt" .
+<http://www.solide-projekt.de/resource/ex> <http://www.w3.org/2000/01/rdf-schema#label> "EX" .
+<http://www.solide-projekt.de/resource/dekon> <http://www.w3.org/2000/01/rdf-schema#label> "Dekontamination" .
+<http://www.solide-projekt.de/resource/dekon> <http://www.w3.org/2000/01/rdf-schema#label> "Dekon" .
+<http://www.solide-projekt.de/resource/uvv> <http://www.w3.org/2000/01/rdf-schema#label> "Unfallverhütungsvorschrift" .
+<http://www.solide-projekt.de/resource/uvv> <http://www.w3.org/2000/01/rdf-schema#label> "UVV" .
+<http://www.solide-projekt.de/resource/ags> <http://www.w3.org/2000/01/rdf-schema#label> "Ausschuß für Gefahrstoffe" .
+<http://www.solide-projekt.de/resource/ags> <http://www.w3.org/2000/01/rdf-schema#label> "AGS" .
+<http://www.solide-projekt.de/resource/lz> <http://www.w3.org/2000/01/rdf-schema#label> "Löschzug " .
+<http://www.solide-projekt.de/resource/lz> <http://www.w3.org/2000/01/rdf-schema#label> "LZ" .
+<http://www.solide-projekt.de/resource/mef-g> <http://www.w3.org/2000/01/rdf-schema#label> "Meßfahrzeug-Gefahrgut" .
+<http://www.solide-projekt.de/resource/mef-g> <http://www.w3.org/2000/01/rdf-schema#label> "MeF-G" .
+<http://www.solide-projekt.de/resource/orgel> <http://www.w3.org/2000/01/rdf-schema#label> "Organisatorischer Einsatzleiter Rettungsdienst" .
+<http://www.solide-projekt.de/resource/orgel> <http://www.w3.org/2000/01/rdf-schema#label> "OrgEL" .
+<http://www.solide-projekt.de/resource/fesp> <http://www.w3.org/2000/01/rdf-schema#label> "Fernsprecher (Telefonist)" .
+<http://www.solide-projekt.de/resource/fesp> <http://www.w3.org/2000/01/rdf-schema#label> "FeSp" .
+<http://www.solide-projekt.de/resource/pkw> <http://www.w3.org/2000/01/rdf-schema#label> "Personenkraftwagen (z.B. für Einsatzleiter)" .
+<http://www.solide-projekt.de/resource/pkw> <http://www.w3.org/2000/01/rdf-schema#label> "PKW" .
+<http://www.solide-projekt.de/resource/off> <http://www.w3.org/2000/01/rdf-schema#label> "Oberfeuerwehrfrau" .
+<http://www.solide-projekt.de/resource/off> <http://www.w3.org/2000/01/rdf-schema#label> "OFF" .
+<http://www.solide-projekt.de/resource/rtgw> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungs-Gerätewagen (ex DDR)" .
+<http://www.solide-projekt.de/resource/rtgw> <http://www.w3.org/2000/01/rdf-schema#label> "RTGW" .
+<http://www.solide-projekt.de/resource/pf> <http://www.w3.org/2000/01/rdf-schema#label> "Pflichtfeuerwehr" .
+<http://www.solide-projekt.de/resource/pf> <http://www.w3.org/2000/01/rdf-schema#label> "PF" .
+<http://www.solide-projekt.de/resource/kats> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophenschutz" .
+<http://www.solide-projekt.de/resource/kats> <http://www.w3.org/2000/01/rdf-schema#label> "KatS" .
+<http://www.solide-projekt.de/resource/iz> <http://www.w3.org/2000/01/rdf-schema#label> "Instandsetzungszug" .
+<http://www.solide-projekt.de/resource/iz> <http://www.w3.org/2000/01/rdf-schema#label> "IZ" .
+<http://www.solide-projekt.de/resource/ffg> <http://www.w3.org/2000/01/rdf-schema#label> "Fachgemeinschaft Feuerwehrfahrzeuge und -geräte" .
+<http://www.solide-projekt.de/resource/ffg> <http://www.w3.org/2000/01/rdf-schema#label> "FFG" .
+<http://www.solide-projekt.de/resource/sez1> <http://www.w3.org/2000/01/rdf-schema#label> "Schnelleinsatzzelt" .
+<http://www.solide-projekt.de/resource/sez1> <http://www.w3.org/2000/01/rdf-schema#label> "SEZ" .
+<http://www.solide-projekt.de/resource/gembm1> <http://www.w3.org/2000/01/rdf-schema#label> "Gemeindebrandmeisterin" .
+<http://www.solide-projekt.de/resource/gembm1> <http://www.w3.org/2000/01/rdf-schema#label> "GemBM" .
+<http://www.solide-projekt.de/resource/fzfü> <http://www.w3.org/2000/01/rdf-schema#label> "Fanfarenzugführer" .
+<http://www.solide-projekt.de/resource/fzfü> <http://www.w3.org/2000/01/rdf-schema#label> "FZFü" .
+<http://www.solide-projekt.de/resource/ab-atem> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Atemschutz" .
+<http://www.solide-projekt.de/resource/ab-atem> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Atem" .
+<http://www.solide-projekt.de/resource/fz> <http://www.w3.org/2000/01/rdf-schema#label> "Fanfarenzug" .
+<http://www.solide-projekt.de/resource/fz> <http://www.w3.org/2000/01/rdf-schema#label> "FZ" .
+<http://www.solide-projekt.de/resource/boa1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberamtfrau" .
+<http://www.solide-projekt.de/resource/boa1> <http://www.w3.org/2000/01/rdf-schema#label> "BOA" .
+<http://www.solide-projekt.de/resource/jf> <http://www.w3.org/2000/01/rdf-schema#label> "Jugendfeuerwehr" .
+<http://www.solide-projekt.de/resource/jf> <http://www.w3.org/2000/01/rdf-schema#label> "JF" .
+<http://www.solide-projekt.de/resource/trola> <http://www.w3.org/2000/01/rdf-schema#label> "Trockenlöschanhänger" .
+<http://www.solide-projekt.de/resource/trola> <http://www.w3.org/2000/01/rdf-schema#label> "TroLA" .
+<http://www.solide-projekt.de/resource/fwk> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrkran (KW)" .
+<http://www.solide-projekt.de/resource/fwk> <http://www.w3.org/2000/01/rdf-schema#label> "FwK" .
+<http://www.solide-projekt.de/resource/p250> <http://www.w3.org/2000/01/rdf-schema#label> "Pulverlöschanhänger mit 250 kg Pulver" .
+<http://www.solide-projekt.de/resource/p250> <http://www.w3.org/2000/01/rdf-schema#label> "P 250" .
+<http://www.solide-projekt.de/resource/fügrp> <http://www.w3.org/2000/01/rdf-schema#label> "Führungsgruppe" .
+<http://www.solide-projekt.de/resource/fügrp> <http://www.w3.org/2000/01/rdf-schema#label> "FÜGrp" .
+<http://www.solide-projekt.de/resource/öel> <http://www.w3.org/2000/01/rdf-schema#label> "Örtliche Einsatzleitung" .
+<http://www.solide-projekt.de/resource/öel> <http://www.w3.org/2000/01/rdf-schema#label> "ÖEL" .
+<http://www.solide-projekt.de/resource/gf> <http://www.w3.org/2000/01/rdf-schema#label> "Gruppenführer" .
+<http://www.solide-projekt.de/resource/gf> <http://www.w3.org/2000/01/rdf-schema#label> "GF" .
+<http://www.solide-projekt.de/resource/all> <http://www.w3.org/2000/01/rdf-schema#label> "Allradantrieb" .
+<http://www.solide-projekt.de/resource/all> <http://www.w3.org/2000/01/rdf-schema#label> "All" .
+<http://www.solide-projekt.de/resource/ts> <http://www.w3.org/2000/01/rdf-schema#label> "Tragkraftspritze" .
+<http://www.solide-projekt.de/resource/ts> <http://www.w3.org/2000/01/rdf-schema#label> "TS" .
+<http://www.solide-projekt.de/resource/lb-cc> <http://www.w3.org/2000/01/rdf-schema#label> "Leiterbühne mit Computercontrolle" .
+<http://www.solide-projekt.de/resource/lb-cc> <http://www.w3.org/2000/01/rdf-schema#label> "LB..CC" .
+<http://www.solide-projekt.de/resource/lbi1> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbrandinspekteurin" .
+<http://www.solide-projekt.de/resource/lbi1> <http://www.w3.org/2000/01/rdf-schema#label> "LBI" .
+<http://www.solide-projekt.de/resource/kef> <http://www.w3.org/2000/01/rdf-schema#label> "Kleineinsatzfahrzeug (KLAF)" .
+<http://www.solide-projekt.de/resource/kef> <http://www.w3.org/2000/01/rdf-schema#label> "KEF" .
+<http://www.solide-projekt.de/resource/gw-ölsperre> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen mit Ölsperre (BF Hagen)" .
+<http://www.solide-projekt.de/resource/gw-ölsperre> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Ölsperre" .
+<http://www.solide-projekt.de/resource/fwa-sww> <http://www.w3.org/2000/01/rdf-schema#label> "Anhänger mit Schaum-Wasserwerfer" .
+<http://www.solide-projekt.de/resource/fwa-sww> <http://www.w3.org/2000/01/rdf-schema#label> "FwA-SWW" .
+<http://www.solide-projekt.de/resource/lbf1> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbereichsführerin" .
+<http://www.solide-projekt.de/resource/lbf1> <http://www.w3.org/2000/01/rdf-schema#label> "LBF" .
+<http://www.solide-projekt.de/resource/hrw> <http://www.w3.org/2000/01/rdf-schema#label> "Hilfsrettungswagen (GW)" .
+<http://www.solide-projekt.de/resource/hrw> <http://www.w3.org/2000/01/rdf-schema#label> "HRW" .
+<http://www.solide-projekt.de/resource/gmf> <http://www.w3.org/2000/01/rdf-schema#label> "Gefahrstoff-Meßfahrzeug (GMW)" .
+<http://www.solide-projekt.de/resource/gmf> <http://www.w3.org/2000/01/rdf-schema#label> "GMF" .
+<http://www.solide-projekt.de/resource/boi> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberinspektor" .
+<http://www.solide-projekt.de/resource/boi> <http://www.w3.org/2000/01/rdf-schema#label> "BOI" .
+<http://www.solide-projekt.de/resource/ber> <http://www.w3.org/2000/01/rdf-schema#label> "Bereitschaft" .
+<http://www.solide-projekt.de/resource/ber> <http://www.w3.org/2000/01/rdf-schema#label> "Ber" .
+<http://www.solide-projekt.de/resource/ks> <http://www.w3.org/2000/01/rdf-schema#label> "Kombispreizer" .
+<http://www.solide-projekt.de/resource/ks> <http://www.w3.org/2000/01/rdf-schema#label> "KS" .
+<http://www.solide-projekt.de/resource/gw-g> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Gefahrgut (SF-G)" .
+<http://www.solide-projekt.de/resource/gw-g> <http://www.w3.org/2000/01/rdf-schema#label> "GW-G" .
+<http://www.solide-projekt.de/resource/bing> <http://www.w3.org/2000/01/rdf-schema#label> "Brandingenieur" .
+<http://www.solide-projekt.de/resource/bing> <http://www.w3.org/2000/01/rdf-schema#label> "BIng" .
+<http://www.solide-projekt.de/resource/hlw> <http://www.w3.org/2000/01/rdf-schema#label> "Herz-Lungen-Wiederbelebung" .
+<http://www.solide-projekt.de/resource/hlw> <http://www.w3.org/2000/01/rdf-schema#label> "HLW" .
+<http://www.solide-projekt.de/resource/eh> <http://www.w3.org/2000/01/rdf-schema#label> "Erste Hilfe" .
+<http://www.solide-projekt.de/resource/eh> <http://www.w3.org/2000/01/rdf-schema#label> "EH" .
+<http://www.solide-projekt.de/resource/flm-f> <http://www.w3.org/2000/01/rdf-schema#label> "Flutlichtmast(-Fahrzeug) (Lim(a)F)" .
+<http://www.solide-projekt.de/resource/flm-f> <http://www.w3.org/2000/01/rdf-schema#label> "FLM-F" .
+<http://www.solide-projekt.de/resource/gw-m/s> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Meßtechnik/Strahlenschutz" .
+<http://www.solide-projekt.de/resource/gw-m/s> <http://www.w3.org/2000/01/rdf-schema#label> "GW-M/S" .
+<http://www.solide-projekt.de/resource/ubm> <http://www.w3.org/2000/01/rdf-schema#label> "Unterbrandmeister" .
+<http://www.solide-projekt.de/resource/ubm> <http://www.w3.org/2000/01/rdf-schema#label> "UBM" .
+<http://www.solide-projekt.de/resource/bfi> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksfeuerwehrinspekteur" .
+<http://www.solide-projekt.de/resource/bfi> <http://www.w3.org/2000/01/rdf-schema#label> "BFI" .
+<http://www.solide-projekt.de/resource/radl> <http://www.w3.org/2000/01/rdf-schema#label> "Radlader" .
+<http://www.solide-projekt.de/resource/radl> <http://www.w3.org/2000/01/rdf-schema#label> "RADL" .
+<http://www.solide-projekt.de/resource/dlrg> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsche Lebens-Rettungs-Gesellschaft" .
+<http://www.solide-projekt.de/resource/dlrg> <http://www.w3.org/2000/01/rdf-schema#label> "DLRG" .
+<http://www.solide-projekt.de/resource/bref> <http://www.w3.org/2000/01/rdf-schema#label> "Brandreferendar" .
+<http://www.solide-projekt.de/resource/bref> <http://www.w3.org/2000/01/rdf-schema#label> "BRef" .
+<http://www.solide-projekt.de/resource/ab-g> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Gefahrgut" .
+<http://www.solide-projekt.de/resource/ab-g> <http://www.w3.org/2000/01/rdf-schema#label> "AB-G" .
+<http://www.solide-projekt.de/resource/lsg> <http://www.w3.org/2000/01/rdf-schema#label> "Leichtschaumgenerator (tragbar)" .
+<http://www.solide-projekt.de/resource/lsg> <http://www.w3.org/2000/01/rdf-schema#label> "LSG" .
+<http://www.solide-projekt.de/resource/pa> <http://www.w3.org/2000/01/rdf-schema#label> "Pressluftatmer" .
+<http://www.solide-projekt.de/resource/pa> <http://www.w3.org/2000/01/rdf-schema#label> "PA" .
+<http://www.solide-projekt.de/resource/flm> <http://www.w3.org/2000/01/rdf-schema#label> "Flutlichtmast(-Fahrzeug) (Lim(a)F)" .
+<http://www.solide-projekt.de/resource/flm> <http://www.w3.org/2000/01/rdf-schema#label> "FLM" .
+<http://www.solide-projekt.de/resource/regbd1> <http://www.w3.org/2000/01/rdf-schema#label> "Regierungsbranddirektorin" .
+<http://www.solide-projekt.de/resource/regbd1> <http://www.w3.org/2000/01/rdf-schema#label> "RegBD" .
+<http://www.solide-projekt.de/resource/zdl> <http://www.w3.org/2000/01/rdf-schema#label> "Zivildienstleistender" .
+<http://www.solide-projekt.de/resource/zdl> <http://www.w3.org/2000/01/rdf-schema#label> "ZDL" .
+<http://www.solide-projekt.de/resource/sanz> <http://www.w3.org/2000/01/rdf-schema#label> "Sanitätszug" .
+<http://www.solide-projekt.de/resource/sanz> <http://www.w3.org/2000/01/rdf-schema#label> "SanZ" .
+<http://www.solide-projekt.de/resource/ufo> <http://www.w3.org/2000/01/rdf-schema#label> "Unfallforscher" .
+<http://www.solide-projekt.de/resource/ufo> <http://www.w3.org/2000/01/rdf-schema#label> "UFO" .
+<http://www.solide-projekt.de/resource/vrw> <http://www.w3.org/2000/01/rdf-schema#label> "Vorausrüstwagen" .
+<http://www.solide-projekt.de/resource/vrw> <http://www.w3.org/2000/01/rdf-schema#label> "VRW" .
+<http://www.solide-projekt.de/resource/ma> <http://www.w3.org/2000/01/rdf-schema#label> "Maschinist" .
+<http://www.solide-projekt.de/resource/ma> <http://www.w3.org/2000/01/rdf-schema#label> "Ma" .
+<http://www.solide-projekt.de/resource/pl> <http://www.w3.org/2000/01/rdf-schema#label> "Pulverlöscher" .
+<http://www.solide-projekt.de/resource/pl> <http://www.w3.org/2000/01/rdf-schema#label> "PL" .
+<http://www.solide-projekt.de/resource/sw> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchwagen (SKW)" .
+<http://www.solide-projekt.de/resource/sw> <http://www.w3.org/2000/01/rdf-schema#label> "SW" .
+<http://www.solide-projekt.de/resource/ktw> <http://www.w3.org/2000/01/rdf-schema#label> "Krankentransportwagen" .
+<http://www.solide-projekt.de/resource/ktw> <http://www.w3.org/2000/01/rdf-schema#label> "KTW" .
+<http://www.solide-projekt.de/resource/dau> <http://www.w3.org/2000/01/rdf-schema#label> "Digital-Alarm-Umsetzer" .
+<http://www.solide-projekt.de/resource/dau> <http://www.w3.org/2000/01/rdf-schema#label> "DAU" .
+<http://www.solide-projekt.de/resource/wefü> <http://www.w3.org/2000/01/rdf-schema#label> "Wehrführer" .
+<http://www.solide-projekt.de/resource/wefü> <http://www.w3.org/2000/01/rdf-schema#label> "WeFü" .
+<http://www.solide-projekt.de/resource/ltdbd1> <http://www.w3.org/2000/01/rdf-schema#label> "Leitender Branddirektorin" .
+<http://www.solide-projekt.de/resource/ltdbd1> <http://www.w3.org/2000/01/rdf-schema#label> "LtdBD" .
+<http://www.solide-projekt.de/resource/ts8_8> <http://www.w3.org/2000/01/rdf-schema#label> "Tragkraftspritze mit FP 8/8" .
+<http://www.solide-projekt.de/resource/ts8_8> <http://www.w3.org/2000/01/rdf-schema#label> "TS 8/8" .
+<http://www.solide-projekt.de/resource/kompa> <http://www.w3.org/2000/01/rdf-schema#label> "Kompressoranhänger" .
+<http://www.solide-projekt.de/resource/kompa> <http://www.w3.org/2000/01/rdf-schema#label> "KOMPA" .
+<http://www.solide-projekt.de/resource/ssg> <http://www.w3.org/2000/01/rdf-schema#label> "Sauerstoffschutzgerät" .
+<http://www.solide-projekt.de/resource/ssg> <http://www.w3.org/2000/01/rdf-schema#label> "SSG" .
+<http://www.solide-projekt.de/resource/ts2_5> <http://www.w3.org/2000/01/rdf-schema#label> "Tragkraftspritze mit FP 2/5" .
+<http://www.solide-projekt.de/resource/ts2_5> <http://www.w3.org/2000/01/rdf-schema#label> "TS 2/5" .
+<http://www.solide-projekt.de/resource/stfi1> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtfeuerwehrinspekteurin" .
+<http://www.solide-projekt.de/resource/stfi1> <http://www.w3.org/2000/01/rdf-schema#label> "StFI" .
+<http://www.solide-projekt.de/resource/bass1> <http://www.w3.org/2000/01/rdf-schema#label> "Bradassessorin" .
+<http://www.solide-projekt.de/resource/bass1> <http://www.w3.org/2000/01/rdf-schema#label> "BAss" .
+<http://www.solide-projekt.de/resource/mw> <http://www.w3.org/2000/01/rdf-schema#label> "Meßwagen" .
+<http://www.solide-projekt.de/resource/mw> <http://www.w3.org/2000/01/rdf-schema#label> "MW" .
+<http://www.solide-projekt.de/resource/gw-kran> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Kran (im Einsatz mit KW)" .
+<http://www.solide-projekt.de/resource/gw-kran> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Kran" .
+<http://www.solide-projekt.de/resource/gwa-öl> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagenanhänger (Öl)" .
+<http://www.solide-projekt.de/resource/gwa-öl> <http://www.w3.org/2000/01/rdf-schema#label> "GWA-ÖL" .
+<http://www.solide-projekt.de/resource/rtw> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungswagen" .
+<http://www.solide-projekt.de/resource/rtw> <http://www.w3.org/2000/01/rdf-schema#label> "RTW" .
+<http://www.solide-projekt.de/resource/mzf> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrzweckfahrzeug" .
+<http://www.solide-projekt.de/resource/mzf> <http://www.w3.org/2000/01/rdf-schema#label> "MZF" .
+<http://www.solide-projekt.de/resource/fmz> <http://www.w3.org/2000/01/rdf-schema#label> "Fernmeldezug" .
+<http://www.solide-projekt.de/resource/fmz> <http://www.w3.org/2000/01/rdf-schema#label> "FmZ" .
+<http://www.solide-projekt.de/resource/din> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsche Industrienorm" .
+<http://www.solide-projekt.de/resource/din> <http://www.w3.org/2000/01/rdf-schema#label> "DIN" .
+<http://www.solide-projekt.de/resource/erk> <http://www.w3.org/2000/01/rdf-schema#label> "Erkunder (Melder)" .
+<http://www.solide-projekt.de/resource/erk> <http://www.w3.org/2000/01/rdf-schema#label> "Erk" .
+<http://www.solide-projekt.de/resource/gw-str> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Strahlenschutz" .
+<http://www.solide-projekt.de/resource/gw-str> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Str" .
+<http://www.solide-projekt.de/resource/kel> <http://www.w3.org/2000/01/rdf-schema#label> "Katastropheneinsatzleitung" .
+<http://www.solide-projekt.de/resource/kel> <http://www.w3.org/2000/01/rdf-schema#label> "KEL" .
+<http://www.solide-projekt.de/resource/gw> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen" .
+<http://www.solide-projekt.de/resource/gw> <http://www.w3.org/2000/01/rdf-schema#label> "GW" .
+<http://www.solide-projekt.de/resource/gsw> <http://www.w3.org/2000/01/rdf-schema#label> "Gasschutzwagen (BF Frankfurt)" .
+<http://www.solide-projekt.de/resource/gsw> <http://www.w3.org/2000/01/rdf-schema#label> "GSW" .
+<http://www.solide-projekt.de/resource/ltdbd> <http://www.w3.org/2000/01/rdf-schema#label> "Leitender Branddirektor" .
+<http://www.solide-projekt.de/resource/ltdbd> <http://www.w3.org/2000/01/rdf-schema#label> "LtdBD" .
+<http://www.solide-projekt.de/resource/rkl> <http://www.w3.org/2000/01/rdf-schema#label> "Rundumkennleuchte (Blau-/Gelblicht)" .
+<http://www.solide-projekt.de/resource/rkl> <http://www.w3.org/2000/01/rdf-schema#label> "RKL" .
+<http://www.solide-projekt.de/resource/kdow> <http://www.w3.org/2000/01/rdf-schema#label> "Kommandowagen (ELW KoWg)" .
+<http://www.solide-projekt.de/resource/kdow> <http://www.w3.org/2000/01/rdf-schema#label> "Kdow" .
+<http://www.solide-projekt.de/resource/iz1> <http://www.w3.org/2000/01/rdf-schema#label> "Informationszentrale" .
+<http://www.solide-projekt.de/resource/iz1> <http://www.w3.org/2000/01/rdf-schema#label> "IZ" .
+<http://www.solide-projekt.de/resource/mtf> <http://www.w3.org/2000/01/rdf-schema#label> "Mannschaftstransportfahrzeug (MTW)" .
+<http://www.solide-projekt.de/resource/mtf> <http://www.w3.org/2000/01/rdf-schema#label> "MTF" .
+<http://www.solide-projekt.de/resource/al> <http://www.w3.org/2000/01/rdf-schema#label> "Abschnittsleiter" .
+<http://www.solide-projekt.de/resource/al> <http://www.w3.org/2000/01/rdf-schema#label> "AL" .
+<http://www.solide-projekt.de/resource/seeba> <http://www.w3.org/2000/01/rdf-schema#label> "Schnelleinsatzeinheit-Bergung-Ausland (THW)" .
+<http://www.solide-projekt.de/resource/seeba> <http://www.w3.org/2000/01/rdf-schema#label> "SEEBA" .
+<http://www.solide-projekt.de/resource/ff1> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrfrau" .
+<http://www.solide-projekt.de/resource/ff1> <http://www.w3.org/2000/01/rdf-schema#label> "FF" .
+<http://www.solide-projekt.de/resource/kn> <http://www.w3.org/2000/01/rdf-schema#label> "kilo-Newton (1000 N 100kg)" .
+<http://www.solide-projekt.de/resource/kn> <http://www.w3.org/2000/01/rdf-schema#label> "kN" .
+<http://www.solide-projekt.de/resource/obm1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandmeisterin" .
+<http://www.solide-projekt.de/resource/obm1> <http://www.w3.org/2000/01/rdf-schema#label> "OBM" .
+<http://www.solide-projekt.de/resource/rkw> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstkranwagen" .
+<http://www.solide-projekt.de/resource/rkw> <http://www.w3.org/2000/01/rdf-schema#label> "RKW" .
+<http://www.solide-projekt.de/resource/s> <http://www.w3.org/2000/01/rdf-schema#label> "Schneidegerät (Rettungsschere)" .
+<http://www.solide-projekt.de/resource/s> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://www.solide-projekt.de/resource/rba> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungsboot-Anhänger" .
+<http://www.solide-projekt.de/resource/rba> <http://www.w3.org/2000/01/rdf-schema#label> "RBA" .
+<http://www.solide-projekt.de/resource/bbm> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbrandmeister" .
+<http://www.solide-projekt.de/resource/bbm> <http://www.w3.org/2000/01/rdf-schema#label> "BBM" .
+<http://www.solide-projekt.de/resource/dgzrs> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsche Gesellschaft zur Rettung Schifbrüchiger" .
+<http://www.solide-projekt.de/resource/dgzrs> <http://www.w3.org/2000/01/rdf-schema#label> "DGzRS" .
+<http://www.solide-projekt.de/resource/gmw> <http://www.w3.org/2000/01/rdf-schema#label> "Gasmeßwagen (BF Frankfurt) (GMF)" .
+<http://www.solide-projekt.de/resource/gmw> <http://www.w3.org/2000/01/rdf-schema#label> "GMW" .
+<http://www.solide-projekt.de/resource/bfi1> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksfeuerwehrinspekteurin" .
+<http://www.solide-projekt.de/resource/bfi1> <http://www.w3.org/2000/01/rdf-schema#label> "BFI" .
+<http://www.solide-projekt.de/resource/ab-nh3> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter mit NH3-Wasser" .
+<http://www.solide-projekt.de/resource/ab-nh3> <http://www.w3.org/2000/01/rdf-schema#label> "AB-NH3" .
+<http://www.solide-projekt.de/resource/ab-res> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter Reserve" .
+<http://www.solide-projekt.de/resource/ab-res> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Res" .
+<http://www.solide-projekt.de/resource/feuerlösch> <http://www.w3.org/2000/01/rdf-schema#label> "Kfz Feuerwehrfahrzeug der Bundeswehr" .
+<http://www.solide-projekt.de/resource/feuerlösch> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerlösch" .
+<http://www.solide-projekt.de/resource/en> <http://www.w3.org/2000/01/rdf-schema#label> "Europäische Norm" .
+<http://www.solide-projekt.de/resource/en> <http://www.w3.org/2000/01/rdf-schema#label> "EN" .
+<http://www.solide-projekt.de/resource/hlm1> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptlöschmeisterin" .
+<http://www.solide-projekt.de/resource/hlm1> <http://www.w3.org/2000/01/rdf-schema#label> "HLM" .
+<http://www.solide-projekt.de/resource/wtm> <http://www.w3.org/2000/01/rdf-schema#label> "Wassertrupp-Mann" .
+<http://www.solide-projekt.de/resource/wtm> <http://www.w3.org/2000/01/rdf-schema#label> "WTM" .
+<http://www.solide-projekt.de/resource/lbi> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbrandinspekteur" .
+<http://www.solide-projekt.de/resource/lbi> <http://www.w3.org/2000/01/rdf-schema#label> "LBI" .
+<http://www.solide-projekt.de/resource/obd1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbranddirektorin" .
+<http://www.solide-projekt.de/resource/obd1> <http://www.w3.org/2000/01/rdf-schema#label> "OBD" .
+<http://www.solide-projekt.de/resource/sar> <http://www.w3.org/2000/01/rdf-schema#label> "Flugrettungsdienst der BRD bzw US-Army (Search And Rescue)" .
+<http://www.solide-projekt.de/resource/sar> <http://www.w3.org/2000/01/rdf-schema#label> "SAR" .
+<http://www.solide-projekt.de/resource/lp> <http://www.w3.org/2000/01/rdf-schema#label> "Lenzpumpe" .
+<http://www.solide-projekt.de/resource/lp> <http://www.w3.org/2000/01/rdf-schema#label> "LP" .
+<http://www.solide-projekt.de/resource/agt> <http://www.w3.org/2000/01/rdf-schema#label> "Atemschutzgeräteträger" .
+<http://www.solide-projekt.de/resource/agt> <http://www.w3.org/2000/01/rdf-schema#label> "AGT" .
+<http://www.solide-projekt.de/resource/wgk> <http://www.w3.org/2000/01/rdf-schema#label> "Wassergefährdungsklasse" .
+<http://www.solide-projekt.de/resource/wgk> <http://www.w3.org/2000/01/rdf-schema#label> "WGK" .
+<http://www.solide-projekt.de/resource/bzs> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesverband für Zivilschutz" .
+<http://www.solide-projekt.de/resource/bzs> <http://www.w3.org/2000/01/rdf-schema#label> "BZS" .
+<http://www.solide-projekt.de/resource/gal> <http://www.w3.org/2000/01/rdf-schema#label> "Gefahrenabwehrleitung" .
+<http://www.solide-projekt.de/resource/gal> <http://www.w3.org/2000/01/rdf-schema#label> "GAL" .
+<http://www.solide-projekt.de/resource/fernmelde> <http://www.w3.org/2000/01/rdf-schema#label> "Kfz Fernmelde-Kraftfahrzeug" .
+<http://www.solide-projekt.de/resource/fernmelde> <http://www.w3.org/2000/01/rdf-schema#label> "Fernmelde" .
+<http://www.solide-projekt.de/resource/pg> <http://www.w3.org/2000/01/rdf-schema#label> "Pulverlöscher mit Glutbrandpulver" .
+<http://www.solide-projekt.de/resource/pg> <http://www.w3.org/2000/01/rdf-schema#label> "PG" .
+<http://www.solide-projekt.de/resource/tf1> <http://www.w3.org/2000/01/rdf-schema#label> "Truppführer" .
+<http://www.solide-projekt.de/resource/tf1> <http://www.w3.org/2000/01/rdf-schema#label> "TF" .
+<http://www.solide-projekt.de/resource/sbi> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandinspektor" .
+<http://www.solide-projekt.de/resource/sbi> <http://www.w3.org/2000/01/rdf-schema#label> "SBI" .
+<http://www.solide-projekt.de/resource/fp> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerlöschkreiselpumpe" .
+<http://www.solide-projekt.de/resource/fp> <http://www.w3.org/2000/01/rdf-schema#label> "FP" .
+<http://www.solide-projekt.de/resource/kbr1> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandrätin" .
+<http://www.solide-projekt.de/resource/kbr1> <http://www.w3.org/2000/01/rdf-schema#label> "KBR" .
+<http://www.solide-projekt.de/resource/gw-g1> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen" .
+<http://www.solide-projekt.de/resource/gw-g1> <http://www.w3.org/2000/01/rdf-schema#label> "GW-G 1" .
+<http://www.solide-projekt.de/resource/ldf1> <http://www.w3.org/2000/01/rdf-schema#label> "Leiter des Fernmeldebetriebs" .
+<http://www.solide-projekt.de/resource/ldf1> <http://www.w3.org/2000/01/rdf-schema#label> "LdF" .
+<http://www.solide-projekt.de/resource/fwa> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehranhänger" .
+<http://www.solide-projekt.de/resource/fwa> <http://www.w3.org/2000/01/rdf-schema#label> "FwA" .
+<http://www.solide-projekt.de/resource/ww1> <http://www.w3.org/2000/01/rdf-schema#label> "Wasserwerfer" .
+<http://www.solide-projekt.de/resource/ww1> <http://www.w3.org/2000/01/rdf-schema#label> "WW" .
+<http://www.solide-projekt.de/resource/lfv> <http://www.w3.org/2000/01/rdf-schema#label> "Landesfeuerwehrverband" .
+<http://www.solide-projekt.de/resource/lfv> <http://www.w3.org/2000/01/rdf-schema#label> "LFV" .
+<http://www.solide-projekt.de/resource/ltd> <http://www.w3.org/2000/01/rdf-schema#label> "Leitender" .
+<http://www.solide-projekt.de/resource/ltd> <http://www.w3.org/2000/01/rdf-schema#label> "Ltd" .
+<http://www.solide-projekt.de/resource/wt> <http://www.w3.org/2000/01/rdf-schema#label> "Wassertrupp (1/1)" .
+<http://www.solide-projekt.de/resource/wt> <http://www.w3.org/2000/01/rdf-schema#label> "WT" .
+<http://www.solide-projekt.de/resource/gsg> <http://www.w3.org/2000/01/rdf-schema#label> "Gefährliche Stoffe und Güter" .
+<http://www.solide-projekt.de/resource/gsg> <http://www.w3.org/2000/01/rdf-schema#label> "GSG" .
+<http://www.solide-projekt.de/resource/ilst> <http://www.w3.org/2000/01/rdf-schema#label> "Integrierte Leitstelle" .
+<http://www.solide-projekt.de/resource/ilst> <http://www.w3.org/2000/01/rdf-schema#label> "ILst" .
+<http://www.solide-projekt.de/resource/ith> <http://www.w3.org/2000/01/rdf-schema#label> "Intensivtransporthubschrauber (spez. RTH)" .
+<http://www.solide-projekt.de/resource/ith> <http://www.w3.org/2000/01/rdf-schema#label> "ITH" .
+<http://www.solide-projekt.de/resource/gktw> <http://www.w3.org/2000/01/rdf-schema#label> "Großraum-Krankentransportwagen" .
+<http://www.solide-projekt.de/resource/gktw> <http://www.w3.org/2000/01/rdf-schema#label> "GKTW" .
+<http://www.solide-projekt.de/resource/vrw/c> <http://www.w3.org/2000/01/rdf-schema#label> "Vorausrüstwagen-Chemie" .
+<http://www.solide-projekt.de/resource/vrw/c> <http://www.w3.org/2000/01/rdf-schema#label> "VRW/C" .
+<http://www.solide-projekt.de/resource/stjfw> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtjugendfeuerwehrwart" .
+<http://www.solide-projekt.de/resource/stjfw> <http://www.w3.org/2000/01/rdf-schema#label> "StJFW" .
+<http://www.solide-projekt.de/resource/klaf-öl> <http://www.w3.org/2000/01/rdf-schema#label> "Kleinarlarmfahrzeug-Öl (kleiner GW-Öl)" .
+<http://www.solide-projekt.de/resource/klaf-öl> <http://www.w3.org/2000/01/rdf-schema#label> "KLAF-Öl" .
+<http://www.solide-projekt.de/resource/naw> <http://www.w3.org/2000/01/rdf-schema#label> "Notarztwagen" .
+<http://www.solide-projekt.de/resource/naw> <http://www.w3.org/2000/01/rdf-schema#label> "NAW" .
+<http://www.solide-projekt.de/resource/wrz> <http://www.w3.org/2000/01/rdf-schema#label> "Wasserrettungszug" .
+<http://www.solide-projekt.de/resource/wrz> <http://www.w3.org/2000/01/rdf-schema#label> "WRZ" .
+<http://www.solide-projekt.de/resource/agbb> <http://www.w3.org/2000/01/rdf-schema#label> "Arbeitsgemeinschaft Betrieblicher Brandschutz" .
+<http://www.solide-projekt.de/resource/agbb> <http://www.w3.org/2000/01/rdf-schema#label> "AGBB" .
+<http://www.solide-projekt.de/resource/kbi1> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandinspektorin " .
+<http://www.solide-projekt.de/resource/kbi1> <http://www.w3.org/2000/01/rdf-schema#label> "KBI" .
+<http://www.solide-projekt.de/resource/dg> <http://www.w3.org/2000/01/rdf-schema#label> "Dachgeschoß" .
+<http://www.solide-projekt.de/resource/dg> <http://www.w3.org/2000/01/rdf-schema#label> "DG" .
+<http://www.solide-projekt.de/resource/bks> <http://www.w3.org/2000/01/rdf-schema#label> "Brandschutz- und Katastrophenschutzschule" .
+<http://www.solide-projekt.de/resource/bks> <http://www.w3.org/2000/01/rdf-schema#label> "BKS" .
+<http://www.solide-projekt.de/resource/rw-w> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen-Wasserrettung" .
+<http://www.solide-projekt.de/resource/rw-w> <http://www.w3.org/2000/01/rdf-schema#label> "RW-W" .
+<http://www.solide-projekt.de/resource/jfw> <http://www.w3.org/2000/01/rdf-schema#label> "Jugendfeuerwehrwart" .
+<http://www.solide-projekt.de/resource/jfw> <http://www.w3.org/2000/01/rdf-schema#label> "JFW" .
+<http://www.solide-projekt.de/resource/grtw> <http://www.w3.org/2000/01/rdf-schema#label> "Großraum-Rettungswagen" .
+<http://www.solide-projekt.de/resource/grtw> <http://www.w3.org/2000/01/rdf-schema#label> "GRTW" .
+<http://www.solide-projekt.de/resource/bva> <http://www.w3.org/2000/01/rdf-schema#label> "Beamter vom Alarmdienst" .
+<http://www.solide-projekt.de/resource/bva> <http://www.w3.org/2000/01/rdf-schema#label> "BvA" .
+<http://www.solide-projekt.de/resource/elf> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzleitfahrzeug (ELW)" .
+<http://www.solide-projekt.de/resource/elf> <http://www.w3.org/2000/01/rdf-schema#label> "ELF" .
+<http://www.solide-projekt.de/resource/asz> <http://www.w3.org/2000/01/rdf-schema#label> "Atemschutzzug " .
+<http://www.solide-projekt.de/resource/asz> <http://www.w3.org/2000/01/rdf-schema#label> "ASZ" .
+<http://www.solide-projekt.de/resource/ar> <http://www.w3.org/2000/01/rdf-schema#label> "Amtsrat" .
+<http://www.solide-projekt.de/resource/ar> <http://www.w3.org/2000/01/rdf-schema#label> "AR" .
+<http://www.solide-projekt.de/resource/lm1> <http://www.w3.org/2000/01/rdf-schema#label> "Löschmeisterin" .
+<http://www.solide-projekt.de/resource/lm1> <http://www.w3.org/2000/01/rdf-schema#label> "LM" .
+<http://www.solide-projekt.de/resource/hlm> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptlöschmeister" .
+<http://www.solide-projekt.de/resource/hlm> <http://www.w3.org/2000/01/rdf-schema#label> "HLM" .
+<http://www.solide-projekt.de/resource/kbr> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandrat" .
+<http://www.solide-projekt.de/resource/kbr> <http://www.w3.org/2000/01/rdf-schema#label> "KBR" .
+<http://www.solide-projekt.de/resource/grfü> <http://www.w3.org/2000/01/rdf-schema#label> "Gruppenführer" .
+<http://www.solide-projekt.de/resource/grfü> <http://www.w3.org/2000/01/rdf-schema#label> "GrFü" .
+<http://www.solide-projekt.de/resource/fwa-p> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehranhänger mit Pulver (PLA-P ...)" .
+<http://www.solide-projekt.de/resource/fwa-p> <http://www.w3.org/2000/01/rdf-schema#label> "FwA-P" .
+<http://www.solide-projekt.de/resource/hbv> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptverwaltungsbeamter" .
+<http://www.solide-projekt.de/resource/hbv> <http://www.w3.org/2000/01/rdf-schema#label> "HBV" .
+<http://www.solide-projekt.de/resource/wab-g> <http://www.w3.org/2000/01/rdf-schema#label> "(-GSG) Wechselabrollbeh. Gefahrgut (AB-G)" .
+<http://www.solide-projekt.de/resource/wab-g> <http://www.w3.org/2000/01/rdf-schema#label> "WAB-G" .
+<http://www.solide-projekt.de/resource/atf> <http://www.w3.org/2000/01/rdf-schema#label> "Angriffstrupp-Führer" .
+<http://www.solide-projekt.de/resource/atf> <http://www.w3.org/2000/01/rdf-schema#label> "ATF" .
+<http://www.solide-projekt.de/resource/mtw> <http://www.w3.org/2000/01/rdf-schema#label> "Mannschaftstransportwagen (MTF)" .
+<http://www.solide-projekt.de/resource/mtw> <http://www.w3.org/2000/01/rdf-schema#label> "MTW" .
+<http://www.solide-projekt.de/resource/kfi> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisfeuerwehrinspektor" .
+<http://www.solide-projekt.de/resource/kfi> <http://www.w3.org/2000/01/rdf-schema#label> "KFI" .
+<http://www.solide-projekt.de/resource/fkw> <http://www.w3.org/2000/01/rdf-schema#label> "Funkkommandowagen (Fkdow  ähnlich FDW)" .
+<http://www.solide-projekt.de/resource/fkw> <http://www.w3.org/2000/01/rdf-schema#label> "FKW" .
+<http://www.solide-projekt.de/resource/al1> <http://www.w3.org/2000/01/rdf-schema#label> "Abschnittsleiterin" .
+<http://www.solide-projekt.de/resource/al1> <http://www.w3.org/2000/01/rdf-schema#label> "AL" .
+<http://www.solide-projekt.de/resource/vb> <http://www.w3.org/2000/01/rdf-schema#label> "Vorbeugender Brandschutz" .
+<http://www.solide-projekt.de/resource/vb> <http://www.w3.org/2000/01/rdf-schema#label> "VB" .
+<http://www.solide-projekt.de/resource/bar1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandamtsrätin" .
+<http://www.solide-projekt.de/resource/bar1> <http://www.w3.org/2000/01/rdf-schema#label> "BAR" .
+<http://www.solide-projekt.de/resource/lbd> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbranddirektor" .
+<http://www.solide-projekt.de/resource/lbd> <http://www.w3.org/2000/01/rdf-schema#label> "LBD" .
+<http://www.solide-projekt.de/resource/hfm> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptfeuerwehrmann" .
+<http://www.solide-projekt.de/resource/hfm> <http://www.w3.org/2000/01/rdf-schema#label> "HFM" .
+<http://www.solide-projekt.de/resource/bi> <http://www.w3.org/2000/01/rdf-schema#label> "Brandinspektor" .
+<http://www.solide-projekt.de/resource/bi> <http://www.w3.org/2000/01/rdf-schema#label> "BI" .
+<http://www.solide-projekt.de/resource/betrfw> <http://www.w3.org/2000/01/rdf-schema#label> "Betriebsfeuerwehr" .
+<http://www.solide-projekt.de/resource/betrfw> <http://www.w3.org/2000/01/rdf-schema#label> "BetrFW" .
+<http://www.solide-projekt.de/resource/ts4_5> <http://www.w3.org/2000/01/rdf-schema#label> "Tragkraftspritze mit FP 4/5" .
+<http://www.solide-projekt.de/resource/ts4_5> <http://www.w3.org/2000/01/rdf-schema#label> "TS 4/5" .
+<http://www.solide-projekt.de/resource/ov> <http://www.w3.org/2000/01/rdf-schema#label> "Ortsverband (das THW ist in OV's eingeteilt)" .
+<http://www.solide-projekt.de/resource/ov> <http://www.w3.org/2000/01/rdf-schema#label> "OV" .
+<http://www.solide-projekt.de/resource/olm> <http://www.w3.org/2000/01/rdf-schema#label> "Oberlöschmeister" .
+<http://www.solide-projekt.de/resource/olm> <http://www.w3.org/2000/01/rdf-schema#label> "OLM" .
+<http://www.solide-projekt.de/resource/sb> <http://www.w3.org/2000/01/rdf-schema#label> "Sichernder Brandschutz" .
+<http://www.solide-projekt.de/resource/sb> <http://www.w3.org/2000/01/rdf-schema#label> "SB" .
+<http://www.solide-projekt.de/resource/gw-säure> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen für Säureunfälle" .
+<http://www.solide-projekt.de/resource/gw-säure> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Säure" .
+<http://www.solide-projekt.de/resource/gw-as> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Atemschutz/Strahlenschutz" .
+<http://www.solide-projekt.de/resource/gw-as> <http://www.w3.org/2000/01/rdf-schema#label> "GW-AS" .
+<http://www.solide-projekt.de/resource/ttw> <http://www.w3.org/2000/01/rdf-schema#label> "Tiertransportwagen " .
+<http://www.solide-projekt.de/resource/ttw> <http://www.w3.org/2000/01/rdf-schema#label> "TTW" .
+<http://www.solide-projekt.de/resource/ab-s> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Schlauch" .
+<http://www.solide-projekt.de/resource/ab-s> <http://www.w3.org/2000/01/rdf-schema#label> "AB-S" .
+<http://www.solide-projekt.de/resource/mkw> <http://www.w3.org/2000/01/rdf-schema#label> "Mannschaftskraftwagen" .
+<http://www.solide-projekt.de/resource/mkw> <http://www.w3.org/2000/01/rdf-schema#label> "MKW" .
+<http://www.solide-projekt.de/resource/bga> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesgesundheitsamt" .
+<http://www.solide-projekt.de/resource/bga> <http://www.w3.org/2000/01/rdf-schema#label> "BGA" .
+<http://www.solide-projekt.de/resource/aao> <http://www.w3.org/2000/01/rdf-schema#label> "Alarm- und Ausrückordnung" .
+<http://www.solide-projekt.de/resource/aao> <http://www.w3.org/2000/01/rdf-schema#label> "AAO" .
+<http://www.solide-projekt.de/resource/ofm> <http://www.w3.org/2000/01/rdf-schema#label> "Oberfeuerwehrmann" .
+<http://www.solide-projekt.de/resource/ofm> <http://www.w3.org/2000/01/rdf-schema#label> "OFM" .
+<http://www.solide-projekt.de/resource/waf> <http://www.w3.org/2000/01/rdf-schema#label> "Wechselabroll(behälter)fahrzeug" .
+<http://www.solide-projekt.de/resource/waf> <http://www.w3.org/2000/01/rdf-schema#label> "WAF" .
+<http://www.solide-projekt.de/resource/ab-slm> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Sonderlöschmittel" .
+<http://www.solide-projekt.de/resource/ab-slm> <http://www.w3.org/2000/01/rdf-schema#label> "AB-SLM" .
+<http://www.solide-projekt.de/resource/wd> <http://www.w3.org/2000/01/rdf-schema#label> "Warndienst" .
+<http://www.solide-projekt.de/resource/wd> <http://www.w3.org/2000/01/rdf-schema#label> "WD" .
+<http://www.solide-projekt.de/resource/rtb> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungsboot (RB)" .
+<http://www.solide-projekt.de/resource/rtb> <http://www.w3.org/2000/01/rdf-schema#label> "RTB" .
+<http://www.solide-projekt.de/resource/sez> <http://www.w3.org/2000/01/rdf-schema#label> "Schnelleinsatzzug" .
+<http://www.solide-projekt.de/resource/sez> <http://www.w3.org/2000/01/rdf-schema#label> "SEZ" .
+<http://www.solide-projekt.de/resource/fme> <http://www.w3.org/2000/01/rdf-schema#label> "Funkmeldeempfänger (\"Piepser\")" .
+<http://www.solide-projekt.de/resource/fme> <http://www.w3.org/2000/01/rdf-schema#label> "FME" .
+<http://www.solide-projekt.de/resource/opz> <http://www.w3.org/2000/01/rdf-schema#label> "Operationszentrale" .
+<http://www.solide-projekt.de/resource/opz> <http://www.w3.org/2000/01/rdf-schema#label> "OPZ" .
+<http://www.solide-projekt.de/resource/get> <http://www.w3.org/2000/01/rdf-schema#label> "Geräte-Einheiten-Träger (modulares Beladungssystem)" .
+<http://www.solide-projekt.de/resource/get> <http://www.w3.org/2000/01/rdf-schema#label> "GET" .
+<http://www.solide-projekt.de/resource/tel> <http://www.w3.org/2000/01/rdf-schema#label> "Technische Einsatleitung" .
+<http://www.solide-projekt.de/resource/tel> <http://www.w3.org/2000/01/rdf-schema#label> "TEL" .
+<http://www.solide-projekt.de/resource/wtrkw> <http://www.w3.org/2000/01/rdf-schema#label> "Wasserversorgungstruppwagen" .
+<http://www.solide-projekt.de/resource/wtrkw> <http://www.w3.org/2000/01/rdf-schema#label> "WTrKW" .
+<http://www.solide-projekt.de/resource/rw-g> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen-Gefahrgut" .
+<http://www.solide-projekt.de/resource/rw-g> <http://www.w3.org/2000/01/rdf-schema#label> "RW-G" .
+<http://www.solide-projekt.de/resource/thw> <http://www.w3.org/2000/01/rdf-schema#label> "Technisches Hilfswerk" .
+<http://www.solide-projekt.de/resource/thw> <http://www.w3.org/2000/01/rdf-schema#label> "THW" .
+<http://www.solide-projekt.de/resource/gm> <http://www.w3.org/2000/01/rdf-schema#label> "Gelenkmast mit Korb" .
+<http://www.solide-projekt.de/resource/gm> <http://www.w3.org/2000/01/rdf-schema#label> "GM" .
+<http://www.solide-projekt.de/resource/ösa> <http://www.w3.org/2000/01/rdf-schema#label> "Ölschadenanhänger" .
+<http://www.solide-projekt.de/resource/ösa> <http://www.w3.org/2000/01/rdf-schema#label> "ÖSA" .
+<http://www.solide-projekt.de/resource/rw-öl> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen-Öl" .
+<http://www.solide-projekt.de/resource/rw-öl> <http://www.w3.org/2000/01/rdf-schema#label> "RW-ÖL" .
+<http://www.solide-projekt.de/resource/stvo> <http://www.w3.org/2000/01/rdf-schema#label> "Straßenverkehrsordnung" .
+<http://www.solide-projekt.de/resource/stvo> <http://www.w3.org/2000/01/rdf-schema#label> "StVO" .
+<http://www.solide-projekt.de/resource/ab> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter (WAB WB)" .
+<http://www.solide-projekt.de/resource/ab> <http://www.w3.org/2000/01/rdf-schema#label> "AB" .
+<http://www.solide-projekt.de/resource/am> <http://www.w3.org/2000/01/rdf-schema#label> "Autobahnmeisterei" .
+<http://www.solide-projekt.de/resource/am> <http://www.w3.org/2000/01/rdf-schema#label> "AM" .
+<http://www.solide-projekt.de/resource/strlschv> <http://www.w3.org/2000/01/rdf-schema#label> "Strahlenschutzverordnung" .
+<http://www.solide-projekt.de/resource/strlschv> <http://www.w3.org/2000/01/rdf-schema#label> "StrlSchV" .
+<http://www.solide-projekt.de/resource/futrp> <http://www.w3.org/2000/01/rdf-schema#label> "Funktrupp" .
+<http://www.solide-projekt.de/resource/futrp> <http://www.w3.org/2000/01/rdf-schema#label> "FuTrp" .
+<http://www.solide-projekt.de/resource/dmf> <http://www.w3.org/2000/01/rdf-schema#label> "Dekontaminierungsmehrzweckfahrzeug" .
+<http://www.solide-projekt.de/resource/dmf> <http://www.w3.org/2000/01/rdf-schema#label> "DMF" .
+<http://www.solide-projekt.de/resource/trowa> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfurter Kürzel für TroTLF 16" .
+<http://www.solide-projekt.de/resource/trowa> <http://www.w3.org/2000/01/rdf-schema#label> "TROWA" .
+<http://www.solide-projekt.de/resource/waf-boot> <http://www.w3.org/2000/01/rdf-schema#label> "Wechselabroll(behälter)fahrzeug mit Boot" .
+<http://www.solide-projekt.de/resource/waf-boot> <http://www.w3.org/2000/01/rdf-schema#label> "WAF-Boot" .
+<http://www.solide-projekt.de/resource/tsf-t> <http://www.w3.org/2000/01/rdf-schema#label> "TSF mit Truppbesatzung" .
+<http://www.solide-projekt.de/resource/tsf-t> <http://www.w3.org/2000/01/rdf-schema#label> "TSF-T" .
+<http://www.solide-projekt.de/resource/oregbr> <http://www.w3.org/2000/01/rdf-schema#label> "Oberregierungsbrandrat" .
+<http://www.solide-projekt.de/resource/oregbr> <http://www.w3.org/2000/01/rdf-schema#label> "ORegBR" .
+<http://www.solide-projekt.de/resource/rw1> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen für einfache technische Hilfeleistungen" .
+<http://www.solide-projekt.de/resource/rw1> <http://www.w3.org/2000/01/rdf-schema#label> "RW 1" .
+<http://www.solide-projekt.de/resource/kbm> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandmeister" .
+<http://www.solide-projekt.de/resource/kbm> <http://www.w3.org/2000/01/rdf-schema#label> "KBM" .
+<http://www.solide-projekt.de/resource/fae> <http://www.w3.org/2000/01/rdf-schema#label> "Funkalarmempfänger (\"Piepser\")" .
+<http://www.solide-projekt.de/resource/fae> <http://www.w3.org/2000/01/rdf-schema#label> "FAE" .
+<http://www.solide-projekt.de/resource/boi1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberinspektorin" .
+<http://www.solide-projekt.de/resource/boi1> <http://www.w3.org/2000/01/rdf-schema#label> "BOI" .
+<http://www.solide-projekt.de/resource/vlkw> <http://www.w3.org/2000/01/rdf-schema#label> "Versorgungslastkraftwagen (GW-N)" .
+<http://www.solide-projekt.de/resource/vlkw> <http://www.w3.org/2000/01/rdf-schema#label> "VLKW" .
+<http://www.solide-projekt.de/resource/ptlf> <http://www.w3.org/2000/01/rdf-schema#label> "Pulvertanklöschfahrzeug (TroTLF)" .
+<http://www.solide-projekt.de/resource/ptlf> <http://www.w3.org/2000/01/rdf-schema#label> "PTLF" .
+<http://www.solide-projekt.de/resource/ab-kats> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Katastrophenschutz" .
+<http://www.solide-projekt.de/resource/ab-kats> <http://www.w3.org/2000/01/rdf-schema#label> "AB-KatS" .
+<http://www.solide-projekt.de/resource/djf> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsche Jugendfeuerwehr" .
+<http://www.solide-projekt.de/resource/djf> <http://www.w3.org/2000/01/rdf-schema#label> "DJF" .
+<http://www.solide-projekt.de/resource/t> <http://www.w3.org/2000/01/rdf-schema#label> "Trupp (1/2 oder 1/1)" .
+<http://www.solide-projekt.de/resource/t> <http://www.w3.org/2000/01/rdf-schema#label> "T" .
+<http://www.solide-projekt.de/resource/wefü1> <http://www.w3.org/2000/01/rdf-schema#label> "Wehrführerin" .
+<http://www.solide-projekt.de/resource/wefü1> <http://www.w3.org/2000/01/rdf-schema#label> "WeFü" .
+<http://www.solide-projekt.de/resource/lfi1> <http://www.w3.org/2000/01/rdf-schema#label> "Landesfeuerwehrinspekteurin" .
+<http://www.solide-projekt.de/resource/lfi1> <http://www.w3.org/2000/01/rdf-schema#label> "LFI" .
+<http://www.solide-projekt.de/resource/gw-n> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Nachschub (GW-T)" .
+<http://www.solide-projekt.de/resource/gw-n> <http://www.w3.org/2000/01/rdf-schema#label> "GW-N" .
+<http://www.solide-projekt.de/resource/dl3> <http://www.w3.org/2000/01/rdf-schema#label> "Drehleiter" .
+<http://www.solide-projekt.de/resource/dl3> <http://www.w3.org/2000/01/rdf-schema#label> "DL(K) 23-12" .
+<http://www.solide-projekt.de/resource/elw> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzleitwagen (ELF Kdow KoWg ZFW)" .
+<http://www.solide-projekt.de/resource/elw> <http://www.w3.org/2000/01/rdf-schema#label> "ELW" .
+<http://www.solide-projekt.de/resource/klaf> <http://www.w3.org/2000/01/rdf-schema#label> "Kleinarlarmfahrzeug (KEF)" .
+<http://www.solide-projekt.de/resource/klaf> <http://www.w3.org/2000/01/rdf-schema#label> "KLAF" .
+<http://www.solide-projekt.de/resource/bving> <http://www.w3.org/2000/01/rdf-schema#label> "Brandverhütungsingenieur" .
+<http://www.solide-projekt.de/resource/bving> <http://www.w3.org/2000/01/rdf-schema#label> "BVIng" .
+<http://www.solide-projekt.de/resource/aww> <http://www.w3.org/2000/01/rdf-schema#label> "Atemschutzwerkstattwagen" .
+<http://www.solide-projekt.de/resource/aww> <http://www.w3.org/2000/01/rdf-schema#label> "AWW" .
+<http://www.solide-projekt.de/resource/bd> <http://www.w3.org/2000/01/rdf-schema#label> "Branddirektor" .
+<http://www.solide-projekt.de/resource/bd> <http://www.w3.org/2000/01/rdf-schema#label> "BD" .
+<http://www.solide-projekt.de/resource/ez> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzzentrale" .
+<http://www.solide-projekt.de/resource/ez> <http://www.w3.org/2000/01/rdf-schema#label> "EZ" .
+<http://www.solide-projekt.de/resource/fustw> <http://www.w3.org/2000/01/rdf-schema#label> "Funkstreifenwagen" .
+<http://www.solide-projekt.de/resource/fustw> <http://www.w3.org/2000/01/rdf-schema#label> "FuStW" .
+<http://www.solide-projekt.de/resource/sf-g> <http://www.w3.org/2000/01/rdf-schema#label> "Sonderfahrzeug-Gefahrgut (GW-G)" .
+<http://www.solide-projekt.de/resource/sf-g> <http://www.w3.org/2000/01/rdf-schema#label> "SF-G" .
+<http://www.solide-projekt.de/resource/kfz> <http://www.w3.org/2000/01/rdf-schema#label> "Kraftfahrzeug" .
+<http://www.solide-projekt.de/resource/kfz> <http://www.w3.org/2000/01/rdf-schema#label> "Kfz" .
+<http://www.solide-projekt.de/resource/bz> <http://www.w3.org/2000/01/rdf-schema#label> "Bergungszug" .
+<http://www.solide-projekt.de/resource/bz> <http://www.w3.org/2000/01/rdf-schema#label> "BZ" .
+<http://www.solide-projekt.de/resource/ff> <http://www.w3.org/2000/01/rdf-schema#label> "Freiwillige Feuerwehr" .
+<http://www.solide-projekt.de/resource/ff> <http://www.w3.org/2000/01/rdf-schema#label> "FF" .
+<http://www.solide-projekt.de/resource/gw-grube> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Grubenrettung (BF Pforzheim)" .
+<http://www.solide-projekt.de/resource/gw-grube> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Grube" .
+<http://www.solide-projekt.de/resource/htw> <http://www.w3.org/2000/01/rdf-schema#label> "Hilfstransportwagen (GW-N/LKW)" .
+<http://www.solide-projekt.de/resource/htw> <http://www.w3.org/2000/01/rdf-schema#label> "HTW" .
+<http://www.solide-projekt.de/resource/akw> <http://www.w3.org/2000/01/rdf-schema#label> "Abschleppkranwagen (BF Augsburg)" .
+<http://www.solide-projekt.de/resource/akw> <http://www.w3.org/2000/01/rdf-schema#label> "AKW" .
+<http://www.solide-projekt.de/resource/gw-g2> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen" .
+<http://www.solide-projekt.de/resource/gw-g2> <http://www.w3.org/2000/01/rdf-schema#label> "GW-G 2" .
+<http://www.solide-projekt.de/resource/oregbr1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberregierungsbrandrätin" .
+<http://www.solide-projekt.de/resource/oregbr1> <http://www.w3.org/2000/01/rdf-schema#label> "ORegBR" .
+<http://www.solide-projekt.de/resource/ww2> <http://www.w3.org/2000/01/rdf-schema#label> "Wasserwacht im DRK" .
+<http://www.solide-projekt.de/resource/ww2> <http://www.w3.org/2000/01/rdf-schema#label> "WW" .
+<http://www.solide-projekt.de/resource/rth> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungshubschrauber" .
+<http://www.solide-projekt.de/resource/rth> <http://www.w3.org/2000/01/rdf-schema#label> "RTH" .
+<http://www.solide-projekt.de/resource/regbr1> <http://www.w3.org/2000/01/rdf-schema#label> "Regierungsbrandrätin" .
+<http://www.solide-projekt.de/resource/regbr1> <http://www.w3.org/2000/01/rdf-schema#label> "RegBR" .
+<http://www.solide-projekt.de/resource/dm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrzweckstrahlrohr" .
+<http://www.solide-projekt.de/resource/dm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "DM-Rohr" .
+<http://www.solide-projekt.de/resource/gh> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätehaus" .
+<http://www.solide-projekt.de/resource/gh> <http://www.w3.org/2000/01/rdf-schema#label> "GH" .
+<http://www.solide-projekt.de/resource/abcz> <http://www.w3.org/2000/01/rdf-schema#label> "ABC-Zug" .
+<http://www.solide-projekt.de/resource/abcz> <http://www.w3.org/2000/01/rdf-schema#label> "ABCZ" .
+<http://www.solide-projekt.de/resource/mzb> <http://www.w3.org/2000/01/rdf-schema#label> "Mehrzweckboot" .
+<http://www.solide-projekt.de/resource/mzb> <http://www.w3.org/2000/01/rdf-schema#label> "MZB" .
+<http://www.solide-projekt.de/resource/vfdb> <http://www.w3.org/2000/01/rdf-schema#label> "Vereinigung zur Förderung des Deutschen Brandschutzes" .
+<http://www.solide-projekt.de/resource/vfdb> <http://www.w3.org/2000/01/rdf-schema#label> "vfdb" .
+<http://www.solide-projekt.de/resource/limf> <http://www.w3.org/2000/01/rdf-schema#label> "Lichtmastf. (LIMA(FLF  FLW  FLM-F))" .
+<http://www.solide-projekt.de/resource/limf> <http://www.w3.org/2000/01/rdf-schema#label> "LimF" .
+<http://www.solide-projekt.de/resource/uab> <http://www.w3.org/2000/01/rdf-schema#label> "Unimog mit Abrollbehälter " .
+<http://www.solide-projekt.de/resource/uab> <http://www.w3.org/2000/01/rdf-schema#label> "UAB" .
+<http://www.solide-projekt.de/resource/bar> <http://www.w3.org/2000/01/rdf-schema#label> "Brandamtsrat" .
+<http://www.solide-projekt.de/resource/bar> <http://www.w3.org/2000/01/rdf-schema#label> "BAR" .
+<http://www.solide-projekt.de/resource/kva> <http://www.w3.org/2000/01/rdf-schema#label> "kilo-Volt-Ampere (1 kVA =1000 Watt)" .
+<http://www.solide-projekt.de/resource/kva> <http://www.w3.org/2000/01/rdf-schema#label> "kVA" .
+<http://www.solide-projekt.de/resource/tlf-h> <http://www.w3.org/2000/01/rdf-schema#label> "TLF-Hilfeleistung (HTLF)" .
+<http://www.solide-projekt.de/resource/tlf-h> <http://www.w3.org/2000/01/rdf-schema#label> "TLF-H" .
+<http://www.solide-projekt.de/resource/jfm> <http://www.w3.org/2000/01/rdf-schema#label> "Jugendfeuerwehrmann" .
+<http://www.solide-projekt.de/resource/jfm> <http://www.w3.org/2000/01/rdf-schema#label> "JFM" .
+<http://www.solide-projekt.de/resource/brk> <http://www.w3.org/2000/01/rdf-schema#label> "Bayrisches Rotes Kreuz" .
+<http://www.solide-projekt.de/resource/brk> <http://www.w3.org/2000/01/rdf-schema#label> "BRK" .
+<http://www.solide-projekt.de/resource/wadis> <http://www.w3.org/2000/01/rdf-schema#label> "Warndienst-Informationssystem" .
+<http://www.solide-projekt.de/resource/wadis> <http://www.w3.org/2000/01/rdf-schema#label> "WADIS" .
+<http://www.solide-projekt.de/resource/boing1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberingenieurin" .
+<http://www.solide-projekt.de/resource/boing1> <http://www.w3.org/2000/01/rdf-schema#label> "BOIng" .
+<http://www.solide-projekt.de/resource/fabe> <http://www.w3.org/2000/01/rdf-schema#label> "Fachberater" .
+<http://www.solide-projekt.de/resource/fabe> <http://www.w3.org/2000/01/rdf-schema#label> "FaBe" .
+<http://www.solide-projekt.de/resource/gps> <http://www.w3.org/2000/01/rdf-schema#label> "Global Positioning System (Satelliten-Navigationssystem)" .
+<http://www.solide-projekt.de/resource/gps> <http://www.w3.org/2000/01/rdf-schema#label> "GPS" .
+<http://www.solide-projekt.de/resource/ra> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungsassistent" .
+<http://www.solide-projekt.de/resource/ra> <http://www.w3.org/2000/01/rdf-schema#label> "RA" .
+<http://www.solide-projekt.de/resource/hbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptbrandmeisterin" .
+<http://www.solide-projekt.de/resource/hbm1> <http://www.w3.org/2000/01/rdf-schema#label> "HBM" .
+<http://www.solide-projekt.de/resource/bbi> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbrandinspektor" .
+<http://www.solide-projekt.de/resource/bbi> <http://www.w3.org/2000/01/rdf-schema#label> "BBI" .
+<http://www.solide-projekt.de/resource/ksl> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophenschutzleitung" .
+<http://www.solide-projekt.de/resource/ksl> <http://www.w3.org/2000/01/rdf-schema#label> "KSL" .
+<http://www.solide-projekt.de/resource/fw1> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwache" .
+<http://www.solide-projekt.de/resource/fw1> <http://www.w3.org/2000/01/rdf-schema#label> "FW" .
+<http://www.solide-projekt.de/resource/katsl> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophenschutzleitung" .
+<http://www.solide-projekt.de/resource/katsl> <http://www.w3.org/2000/01/rdf-schema#label> "KatSL" .
+<http://www.solide-projekt.de/resource/gw-vku> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Verkehrsunfall" .
+<http://www.solide-projekt.de/resource/gw-vku> <http://www.w3.org/2000/01/rdf-schema#label> "GW-VKU" .
+<http://www.solide-projekt.de/resource/rw> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen" .
+<http://www.solide-projekt.de/resource/rw> <http://www.w3.org/2000/01/rdf-schema#label> "RW" .
+<http://www.solide-projekt.de/resource/spzfü> <http://www.w3.org/2000/01/rdf-schema#label> "Spielmannszugführer" .
+<http://www.solide-projekt.de/resource/spzfü> <http://www.w3.org/2000/01/rdf-schema#label> "SpZFü" .
+<http://www.solide-projekt.de/resource/al2> <http://www.w3.org/2000/01/rdf-schema#label> "Anhängeleiter" .
+<http://www.solide-projekt.de/resource/al2> <http://www.w3.org/2000/01/rdf-schema#label> "AL" .
+<http://www.solide-projekt.de/resource/al2> <http://www.w3.org/2000/01/rdf-schema#label> "Anhängeleiter " .
+<http://www.solide-projekt.de/resource/al2> <http://www.w3.org/2000/01/rdf-schema#label> "AL 16-4" .
+<http://www.solide-projekt.de/resource/gw-t> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Technik (KLAF)" .
+<http://www.solide-projekt.de/resource/gw-t> <http://www.w3.org/2000/01/rdf-schema#label> "GW-T" .
+<http://www.solide-projekt.de/resource/fukow> <http://www.w3.org/2000/01/rdf-schema#label> "Funkkommandowagen (gleich Fkdow)" .
+<http://www.solide-projekt.de/resource/fukow> <http://www.w3.org/2000/01/rdf-schema#label> "Fukow" .
+<http://www.solide-projekt.de/resource/est> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzstelle" .
+<http://www.solide-projekt.de/resource/est> <http://www.w3.org/2000/01/rdf-schema#label> "ESt" .
+<http://www.solide-projekt.de/resource/mak> <http://www.w3.org/2000/01/rdf-schema#label> "Maximale Arbeitsplatz-Konzentration" .
+<http://www.solide-projekt.de/resource/mak> <http://www.w3.org/2000/01/rdf-schema#label> "MAK" .
+<http://www.solide-projekt.de/resource/fzfü1> <http://www.w3.org/2000/01/rdf-schema#label> "Fanfarenzugführerin" .
+<http://www.solide-projekt.de/resource/fzfü1> <http://www.w3.org/2000/01/rdf-schema#label> "FZFü" .
+<http://www.solide-projekt.de/resource/juh> <http://www.w3.org/2000/01/rdf-schema#label> "Johanniter-Unfall-Hilfe" .
+<http://www.solide-projekt.de/resource/juh> <http://www.w3.org/2000/01/rdf-schema#label> "JUH" .
+<http://www.solide-projekt.de/resource/gw-s(tr)> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Strahlenschutz" .
+<http://www.solide-projekt.de/resource/gw-s(tr)> <http://www.w3.org/2000/01/rdf-schema#label> "GW-S(tr)" .
+<http://www.solide-projekt.de/resource/defi> <http://www.w3.org/2000/01/rdf-schema#label> "Defibrillator" .
+<http://www.solide-projekt.de/resource/defi> <http://www.w3.org/2000/01/rdf-schema#label> "Defi" .
+<http://www.solide-projekt.de/resource/ab-t> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Tank" .
+<http://www.solide-projekt.de/resource/ab-t> <http://www.w3.org/2000/01/rdf-schema#label> "AB-T" .
+<http://www.solide-projekt.de/resource/tdk> <http://www.w3.org/2000/01/rdf-schema#label> "Taucher-Dekompressionskammer" .
+<http://www.solide-projekt.de/resource/tdk> <http://www.w3.org/2000/01/rdf-schema#label> "TDK" .
+<http://www.solide-projekt.de/resource/lst> <http://www.w3.org/2000/01/rdf-schema#label> "Leitstelle" .
+<http://www.solide-projekt.de/resource/lst> <http://www.w3.org/2000/01/rdf-schema#label> "Lst" .
+<http://www.solide-projekt.de/resource/obr1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandrätin" .
+<http://www.solide-projekt.de/resource/obr1> <http://www.w3.org/2000/01/rdf-schema#label> "OBR" .
+<http://www.solide-projekt.de/resource/stbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandmeisterin" .
+<http://www.solide-projekt.de/resource/stbm1> <http://www.w3.org/2000/01/rdf-schema#label> "StBM" .
+<http://www.solide-projekt.de/resource/fw> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehr" .
+<http://www.solide-projekt.de/resource/fw> <http://www.w3.org/2000/01/rdf-schema#label> "Fw" .
+<http://www.solide-projekt.de/resource/btz> <http://www.w3.org/2000/01/rdf-schema#label> "Betreuungszug" .
+<http://www.solide-projekt.de/resource/btz> <http://www.w3.org/2000/01/rdf-schema#label> "BtZ" .
+<http://www.solide-projekt.de/resource/te> <http://www.w3.org/2000/01/rdf-schema#label> "Technischer Einsatzleiter" .
+<http://www.solide-projekt.de/resource/te> <http://www.w3.org/2000/01/rdf-schema#label> "TE" .
+<http://www.solide-projekt.de/resource/tw1> <http://www.w3.org/2000/01/rdf-schema#label> "Tankwasserwagen (gleich WTF)" .
+<http://www.solide-projekt.de/resource/tw1> <http://www.w3.org/2000/01/rdf-schema#label> "TW" .
+<http://www.solide-projekt.de/resource/öeltr> <http://www.w3.org/2000/01/rdf-schema#label> "Örtlicher Einsatzleiter" .
+<http://www.solide-projekt.de/resource/öeltr> <http://www.w3.org/2000/01/rdf-schema#label> "ÖELtr" .
+<http://www.solide-projekt.de/resource/bab> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesautobahn" .
+<http://www.solide-projekt.de/resource/bab> <http://www.w3.org/2000/01/rdf-schema#label> "BAB" .
+<http://www.solide-projekt.de/resource/ab-c02> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Kohlendioxid" .
+<http://www.solide-projekt.de/resource/ab-c02> <http://www.w3.org/2000/01/rdf-schema#label> "AB-C02" .
+<http://www.solide-projekt.de/resource/tp> <http://www.w3.org/2000/01/rdf-schema#label> "Tauchpumpe" .
+<http://www.solide-projekt.de/resource/tp> <http://www.w3.org/2000/01/rdf-schema#label> "TP" .
+<http://www.solide-projekt.de/resource/lima> <http://www.w3.org/2000/01/rdf-schema#label> "Lichtmastanhänger" .
+<http://www.solide-projekt.de/resource/lima> <http://www.w3.org/2000/01/rdf-schema#label> "LimA" .
+<http://www.solide-projekt.de/resource/4tw> <http://www.w3.org/2000/01/rdf-schema#label> "4-Tragenwagen (KTW mit 4 Tragen)" .
+<http://www.solide-projekt.de/resource/4tw> <http://www.w3.org/2000/01/rdf-schema#label> "4TW" .
+<http://www.solide-projekt.de/resource/fwdv> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehr-Dienstvorschrift" .
+<http://www.solide-projekt.de/resource/fwdv> <http://www.w3.org/2000/01/rdf-schema#label> "FwDV" .
+<http://www.solide-projekt.de/resource/spfu> <http://www.w3.org/2000/01/rdf-schema#label> "Sprechfunker" .
+<http://www.solide-projekt.de/resource/spfu> <http://www.w3.org/2000/01/rdf-schema#label> "SpFu" .
+<http://www.solide-projekt.de/resource/bm1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandmeisterin" .
+<http://www.solide-projekt.de/resource/bm1> <http://www.w3.org/2000/01/rdf-schema#label> "BM" .
+<http://www.solide-projekt.de/resource/obi1> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandinspektorin" .
+<http://www.solide-projekt.de/resource/obi1> <http://www.w3.org/2000/01/rdf-schema#label> "OBI" .
+<http://www.solide-projekt.de/resource/btw1> <http://www.w3.org/2000/01/rdf-schema#label> "Bettentransportwagen" .
+<http://www.solide-projekt.de/resource/btw1> <http://www.w3.org/2000/01/rdf-schema#label> "BTW" .
+<http://www.solide-projekt.de/resource/ab-s-1> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter für S-Bahnunfälle und Beleuchtungszwecke" .
+<http://www.solide-projekt.de/resource/ab-s-1> <http://www.w3.org/2000/01/rdf-schema#label> "AB-S-Bahn/LIcht" .
+<http://www.solide-projekt.de/resource/evd> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzleiter vom Dienst" .
+<http://www.solide-projekt.de/resource/evd> <http://www.w3.org/2000/01/rdf-schema#label> "EvD" .
+<http://www.solide-projekt.de/resource/rw2> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen für technische Hilfeleistungen größeren Umfangs" .
+<http://www.solide-projekt.de/resource/rw2> <http://www.w3.org/2000/01/rdf-schema#label> "RW 2" .
+<http://www.solide-projekt.de/resource/bbd> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbranddirektor" .
+<http://www.solide-projekt.de/resource/bbd> <http://www.w3.org/2000/01/rdf-schema#label> "BBD" .
+<http://www.solide-projekt.de/resource/zst> <http://www.w3.org/2000/01/rdf-schema#label> "Zentraler Stab" .
+<http://www.solide-projekt.de/resource/zst> <http://www.w3.org/2000/01/rdf-schema#label> "Zst" .
+<http://www.solide-projekt.de/resource/bbm1> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbrandmeisterin" .
+<http://www.solide-projekt.de/resource/bbm1> <http://www.w3.org/2000/01/rdf-schema#label> "BBM" .
+<http://www.solide-projekt.de/resource/rw-kran> <http://www.w3.org/2000/01/rdf-schema#label> "Rüstwagen mit Kran" .
+<http://www.solide-projekt.de/resource/rw-kran> <http://www.w3.org/2000/01/rdf-schema#label> "RW-Kran" .
+<http://www.solide-projekt.de/resource/bd1> <http://www.w3.org/2000/01/rdf-schema#label> "Branddirektorin" .
+<http://www.solide-projekt.de/resource/bd1> <http://www.w3.org/2000/01/rdf-schema#label> "BD" .
+<http://www.solide-projekt.de/resource/kfi1> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisfeuerwehrinspektorin" .
+<http://www.solide-projekt.de/resource/kfi1> <http://www.w3.org/2000/01/rdf-schema#label> "KFI" .
+<http://www.solide-projekt.de/resource/og> <http://www.w3.org/2000/01/rdf-schema#label> "Obergeschoß" .
+<http://www.solide-projekt.de/resource/og> <http://www.w3.org/2000/01/rdf-schema#label> "OG" .
+<http://www.solide-projekt.de/resource/wfv> <http://www.w3.org/2000/01/rdf-schema#label> "Werkfeuerwehrverband" .
+<http://www.solide-projekt.de/resource/wfv> <http://www.w3.org/2000/01/rdf-schema#label> "WFV" .
+<http://www.solide-projekt.de/resource/bvs> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesverband für Selbstschutz" .
+<http://www.solide-projekt.de/resource/bvs> <http://www.w3.org/2000/01/rdf-schema#label> "BVS" .
+<http://www.solide-projekt.de/resource/atm> <http://www.w3.org/2000/01/rdf-schema#label> "Angriffstrupp-Mann" .
+<http://www.solide-projekt.de/resource/atm> <http://www.w3.org/2000/01/rdf-schema#label> "ATM" .
+<http://www.solide-projekt.de/resource/ba1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandamtfrau" .
+<http://www.solide-projekt.de/resource/ba1> <http://www.w3.org/2000/01/rdf-schema#label> "BA" .
+<http://www.solide-projekt.de/resource/lg> <http://www.w3.org/2000/01/rdf-schema#label> "Löschgruppe (1/8)" .
+<http://www.solide-projekt.de/resource/lg> <http://www.w3.org/2000/01/rdf-schema#label> "LG" .
+<http://www.solide-projekt.de/resource/schwawe> <http://www.w3.org/2000/01/rdf-schema#label> "Schaum-Wasser-Werfer (auf Anhänger) (FwA-SWW)" .
+<http://www.solide-projekt.de/resource/schwawe> <http://www.w3.org/2000/01/rdf-schema#label> "SchWaWE" .
+<http://www.solide-projekt.de/resource/gw-z> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Zusatzbeladung" .
+<http://www.solide-projekt.de/resource/gw-z> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Z" .
+<http://www.solide-projekt.de/resource/obr> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandrat" .
+<http://www.solide-projekt.de/resource/obr> <http://www.w3.org/2000/01/rdf-schema#label> "OBR" .
+<http://www.solide-projekt.de/resource/bbd1> <http://www.w3.org/2000/01/rdf-schema#label> "Bezirksbranddirektorin" .
+<http://www.solide-projekt.de/resource/bbd1> <http://www.w3.org/2000/01/rdf-schema#label> "BBD" .
+<http://www.solide-projekt.de/resource/adk> <http://www.w3.org/2000/01/rdf-schema#label> "Autodrehkran (ex DDR (KW))" .
+<http://www.solide-projekt.de/resource/adk> <http://www.w3.org/2000/01/rdf-schema#label> "ADK" .
+<http://www.solide-projekt.de/resource/regbr> <http://www.w3.org/2000/01/rdf-schema#label> "Regierungsbrandrat" .
+<http://www.solide-projekt.de/resource/regbr> <http://www.w3.org/2000/01/rdf-schema#label> "RegBR" .
+<http://www.solide-projekt.de/resource/lfb> <http://www.w3.org/2000/01/rdf-schema#label> "Luftbeobachter" .
+<http://www.solide-projekt.de/resource/lfb> <http://www.w3.org/2000/01/rdf-schema#label> "LFB" .
+<http://www.solide-projekt.de/resource/wab> <http://www.w3.org/2000/01/rdf-schema#label> "Wechselabrollbehälter (AB)" .
+<http://www.solide-projekt.de/resource/wab> <http://www.w3.org/2000/01/rdf-schema#label> "WAB" .
+<http://www.solide-projekt.de/resource/st> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchtrupp (1/1)" .
+<http://www.solide-projekt.de/resource/st> <http://www.w3.org/2000/01/rdf-schema#label> "ST" .
+<http://www.solide-projekt.de/resource/drk> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsches Rotes Kreuz" .
+<http://www.solide-projekt.de/resource/drk> <http://www.w3.org/2000/01/rdf-schema#label> "DRK" .
+<http://www.solide-projekt.de/resource/uafeu> <http://www.w3.org/2000/01/rdf-schema#label> "Unterausschuß \"Feuerwehrangelegenheiten\" der IMK" .
+<http://www.solide-projekt.de/resource/uafeu> <http://www.w3.org/2000/01/rdf-schema#label> "UAFeu" .
+<http://www.solide-projekt.de/resource/plf> <http://www.w3.org/2000/01/rdf-schema#label> "Pulverlöschfahrzeug (TroLF)" .
+<http://www.solide-projekt.de/resource/plf> <http://www.w3.org/2000/01/rdf-schema#label> "PLF" .
+<http://www.solide-projekt.de/resource/fma> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrmann-Anwärter" .
+<http://www.solide-projekt.de/resource/fma> <http://www.w3.org/2000/01/rdf-schema#label> "FMA" .
+<http://www.solide-projekt.de/resource/gw-g3> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen" .
+<http://www.solide-projekt.de/resource/gw-g3> <http://www.w3.org/2000/01/rdf-schema#label> "GW-G 3" .
+<http://www.solide-projekt.de/resource/fsw> <http://www.w3.org/2000/01/rdf-schema#label> "Funkstreifenwagen" .
+<http://www.solide-projekt.de/resource/fsw> <http://www.w3.org/2000/01/rdf-schema#label> "FSW" .
+<http://www.solide-projekt.de/resource/kw-zug> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzwellenzug (Funkverbindungen über weite Strecken (Kats))" .
+<http://www.solide-projekt.de/resource/kw-zug> <http://www.w3.org/2000/01/rdf-schema#label> "KW-Zug" .
+<http://www.solide-projekt.de/resource/bgs> <http://www.w3.org/2000/01/rdf-schema#label> "Bundesgrenzschutz (Rettungshubschrauber)" .
+<http://www.solide-projekt.de/resource/bgs> <http://www.w3.org/2000/01/rdf-schema#label> "BGS" .
+<http://www.solide-projekt.de/resource/ab-öl> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Öl" .
+<http://www.solide-projekt.de/resource/ab-öl> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Öl" .
+<http://www.solide-projekt.de/resource/baby-naw> <http://www.w3.org/2000/01/rdf-schema#label> "Baby-Notarztwagen" .
+<http://www.solide-projekt.de/resource/baby-naw> <http://www.w3.org/2000/01/rdf-schema#label> "Baby-NAW" .
+<http://www.solide-projekt.de/resource/bia1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandinspektoranwärterin" .
+<http://www.solide-projekt.de/resource/bia1> <http://www.w3.org/2000/01/rdf-schema#label> "BIA" .
+<http://www.solide-projekt.de/resource/dlk> <http://www.w3.org/2000/01/rdf-schema#label> "Drehleiter mit Korb" .
+<http://www.solide-projekt.de/resource/dlk> <http://www.w3.org/2000/01/rdf-schema#label> "DLK" .
+<http://www.solide-projekt.de/resource/fm-stelle> <http://www.w3.org/2000/01/rdf-schema#label> "Fernmeldestelle" .
+<http://www.solide-projekt.de/resource/fm-stelle> <http://www.w3.org/2000/01/rdf-schema#label> "Fm-Stelle" .
+<http://www.solide-projekt.de/resource/ab-kran> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter mit Kran" .
+<http://www.solide-projekt.de/resource/ab-kran> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Kran" .
+<http://www.solide-projekt.de/resource/wlf> <http://www.w3.org/2000/01/rdf-schema#label> "Wechsellader(fahrzeug)" .
+<http://www.solide-projekt.de/resource/wlf> <http://www.w3.org/2000/01/rdf-schema#label> "WLF" .
+<http://www.solide-projekt.de/resource/afüst> <http://www.w3.org/2000/01/rdf-schema#label> "Abschnittsführungsstelle" .
+<http://www.solide-projekt.de/resource/afüst> <http://www.w3.org/2000/01/rdf-schema#label> "AFüSt" .
+<http://www.solide-projekt.de/resource/stbr> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandrat" .
+<http://www.solide-projekt.de/resource/stbr> <http://www.w3.org/2000/01/rdf-schema#label> "StBR" .
+<http://www.solide-projekt.de/resource/boa> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberamtmann" .
+<http://www.solide-projekt.de/resource/boa> <http://www.w3.org/2000/01/rdf-schema#label> "BOA" .
+<http://www.solide-projekt.de/resource/tsa> <http://www.w3.org/2000/01/rdf-schema#label> "Tragkraftspritzenanhänger" .
+<http://www.solide-projekt.de/resource/tsa> <http://www.w3.org/2000/01/rdf-schema#label> "TSA" .
+<http://www.solide-projekt.de/resource/spz> <http://www.w3.org/2000/01/rdf-schema#label> "Spielmannszug" .
+<http://www.solide-projekt.de/resource/spz> <http://www.w3.org/2000/01/rdf-schema#label> "SpZ" .
+<http://www.solide-projekt.de/resource/stf> <http://www.w3.org/2000/01/rdf-schema#label> "Schlauchtrupp-Führer" .
+<http://www.solide-projekt.de/resource/stf> <http://www.w3.org/2000/01/rdf-schema#label> "STF" .
+<http://www.solide-projekt.de/resource/fesptrp> <http://www.w3.org/2000/01/rdf-schema#label> "Fernsprechtrupp" .
+<http://www.solide-projekt.de/resource/fesptrp> <http://www.w3.org/2000/01/rdf-schema#label> "FeSpTrp" .
+<http://www.solide-projekt.de/resource/fkw1> <http://www.w3.org/2000/01/rdf-schema#label> "Flutlichtfahrzeug" .
+<http://www.solide-projekt.de/resource/fkw1> <http://www.w3.org/2000/01/rdf-schema#label> "FKW" .
+<http://www.solide-projekt.de/resource/kbi> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisbrandinspektor" .
+<http://www.solide-projekt.de/resource/kbi> <http://www.w3.org/2000/01/rdf-schema#label> "KBI" .
+<http://www.solide-projekt.de/resource/bref1> <http://www.w3.org/2000/01/rdf-schema#label> "Brandreferendarin" .
+<http://www.solide-projekt.de/resource/bref1> <http://www.w3.org/2000/01/rdf-schema#label> "BRef" .
+<http://www.solide-projekt.de/resource/stfi> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtfeuerwehrinspekteur" .
+<http://www.solide-projekt.de/resource/stfi> <http://www.w3.org/2000/01/rdf-schema#label> "StFI" .
+<http://www.solide-projekt.de/resource/rb> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungsboot (RTB)" .
+<http://www.solide-projekt.de/resource/rb> <http://www.w3.org/2000/01/rdf-schema#label> "RB" .
+<http://www.solide-projekt.de/resource/hbm> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptbrandmeister" .
+<http://www.solide-projekt.de/resource/hbm> <http://www.w3.org/2000/01/rdf-schema#label> "HBM" .
+<http://www.solide-projekt.de/resource/dfv> <http://www.w3.org/2000/01/rdf-schema#label> "Deutscher Feuerwehrverband" .
+<http://www.solide-projekt.de/resource/dfv> <http://www.w3.org/2000/01/rdf-schema#label> "DFV" .
+<http://www.solide-projekt.de/resource/at> <http://www.w3.org/2000/01/rdf-schema#label> "Angriffstrupp (1/1)" .
+<http://www.solide-projekt.de/resource/at> <http://www.w3.org/2000/01/rdf-schema#label> "AT" .
+<http://www.solide-projekt.de/resource/bia> <http://www.w3.org/2000/01/rdf-schema#label> "Brandinspektoranwärter" .
+<http://www.solide-projekt.de/resource/bia> <http://www.w3.org/2000/01/rdf-schema#label> "BIA" .
+<http://www.solide-projekt.de/resource/fdw> <http://www.w3.org/2000/01/rdf-schema#label> "Funkdienstwagen (FKW)" .
+<http://www.solide-projekt.de/resource/fdw> <http://www.w3.org/2000/01/rdf-schema#label> "FDW" .
+<http://www.solide-projekt.de/resource/els> <http://www.w3.org/2000/01/rdf-schema#label> "Einsatzleitstelle" .
+<http://www.solide-projekt.de/resource/els> <http://www.w3.org/2000/01/rdf-schema#label> "ELS" .
+<http://www.solide-projekt.de/resource/ljwf> <http://www.w3.org/2000/01/rdf-schema#label> "Landesjugendfeuerwehrwart" .
+<http://www.solide-projekt.de/resource/ljwf> <http://www.w3.org/2000/01/rdf-schema#label> "LJWF" .
+<http://www.solide-projekt.de/resource/past> <http://www.w3.org/2000/01/rdf-schema#label> "Polizei(autobahn)station" .
+<http://www.solide-projekt.de/resource/past> <http://www.w3.org/2000/01/rdf-schema#label> "PAST" .
+<http://www.solide-projekt.de/resource/kjfw> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisjugendfeuerwehrwart" .
+<http://www.solide-projekt.de/resource/kjfw> <http://www.w3.org/2000/01/rdf-schema#label> "KJFW" .
+<http://www.solide-projekt.de/resource/boing> <http://www.w3.org/2000/01/rdf-schema#label> "Brandoberingenieur" .
+<http://www.solide-projekt.de/resource/boing> <http://www.w3.org/2000/01/rdf-schema#label> "BOIng" .
+<http://www.solide-projekt.de/resource/blw> <http://www.w3.org/2000/01/rdf-schema#label> "Beleuchtungswagen (Lim(a)F)" .
+<http://www.solide-projekt.de/resource/blw> <http://www.w3.org/2000/01/rdf-schema#label> "BLW" .
+<http://www.solide-projekt.de/resource/gw-u> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Umweltschutz" .
+<http://www.solide-projekt.de/resource/gw-u> <http://www.w3.org/2000/01/rdf-schema#label> "GW-U" .
+<http://www.solide-projekt.de/resource/lbf> <http://www.w3.org/2000/01/rdf-schema#label> "Landesbereichsführer" .
+<http://www.solide-projekt.de/resource/lbf> <http://www.w3.org/2000/01/rdf-schema#label> "LBF" .
+<http://www.solide-projekt.de/resource/obm> <http://www.w3.org/2000/01/rdf-schema#label> "Oberbrandmeister" .
+<http://www.solide-projekt.de/resource/obm> <http://www.w3.org/2000/01/rdf-schema#label> "OBM" .
+<http://www.solide-projekt.de/resource/kfv> <http://www.w3.org/2000/01/rdf-schema#label> "Kreisfeuerwehrverband" .
+<http://www.solide-projekt.de/resource/kfv> <http://www.w3.org/2000/01/rdf-schema#label> "KFV" .
+<http://www.solide-projekt.de/resource/ztrkw> <http://www.w3.org/2000/01/rdf-schema#label> "Zugtruppkraftwagen (ähnlich ELW)" .
+<http://www.solide-projekt.de/resource/ztrkw> <http://www.w3.org/2000/01/rdf-schema#label> "ZTrKW" .
+<http://www.solide-projekt.de/resource/lm> <http://www.w3.org/2000/01/rdf-schema#label> "Löschmeister" .
+<http://www.solide-projekt.de/resource/lm> <http://www.w3.org/2000/01/rdf-schema#label> "LM" .
+<http://www.solide-projekt.de/resource/ab-schaum> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Schaummittel" .
+<http://www.solide-projekt.de/resource/ab-schaum> <http://www.w3.org/2000/01/rdf-schema#label> "AB-Schaum" .
+<http://www.solide-projekt.de/resource/zf> <http://www.w3.org/2000/01/rdf-schema#label> "Zugführer" .
+<http://www.solide-projekt.de/resource/zf> <http://www.w3.org/2000/01/rdf-schema#label> "ZF" .
+<http://www.solide-projekt.de/resource/wtf1> <http://www.w3.org/2000/01/rdf-schema#label> "Wassertrupp-Führer" .
+<http://www.solide-projekt.de/resource/wtf1> <http://www.w3.org/2000/01/rdf-schema#label> "WTF" .
+<http://www.solide-projekt.de/resource/flp> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerlöschpumpe" .
+<http://www.solide-projekt.de/resource/flp> <http://www.w3.org/2000/01/rdf-schema#label> "FLP" .
+<http://www.solide-projekt.de/resource/lis> <http://www.w3.org/2000/01/rdf-schema#label> "Leitstellen-Informations-System" .
+<http://www.solide-projekt.de/resource/lis> <http://www.w3.org/2000/01/rdf-schema#label> "LIS" .
+<http://www.solide-projekt.de/resource/cm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "C Mehrzweckstrahlrohr" .
+<http://www.solide-projekt.de/resource/cm-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "CM-Rohr" .
+<http://www.solide-projekt.de/resource/riv> <http://www.w3.org/2000/01/rdf-schema#label> "Rapid Intervention Vehicle (englisch(VLF))" .
+<http://www.solide-projekt.de/resource/riv> <http://www.w3.org/2000/01/rdf-schema#label> "RIV" .
+<http://www.solide-projekt.de/resource/ab-u> <http://www.w3.org/2000/01/rdf-schema#label> "Abrollbehälter-Umweltschutz/ Dekontamination" .
+<http://www.solide-projekt.de/resource/ab-u> <http://www.w3.org/2000/01/rdf-schema#label> "AB-U/DEKO" .
+<http://www.solide-projekt.de/resource/drf> <http://www.w3.org/2000/01/rdf-schema#label> "Deutsche Rettungsflugwacht" .
+<http://www.solide-projekt.de/resource/drf> <http://www.w3.org/2000/01/rdf-schema#label> "DRF" .
+<http://www.solide-projekt.de/resource/bvrd> <http://www.w3.org/2000/01/rdf-schema#label> "Berufsverband für den Rettungsdienst" .
+<http://www.solide-projekt.de/resource/bvrd> <http://www.w3.org/2000/01/rdf-schema#label> "BVRD" .
+<http://www.solide-projekt.de/resource/pla> <http://www.w3.org/2000/01/rdf-schema#label> "Pulverlöschanhänger (FwA-P)" .
+<http://www.solide-projekt.de/resource/pla> <http://www.w3.org/2000/01/rdf-schema#label> "PLA" .
+<http://www.solide-projekt.de/resource/gw-meß> <http://www.w3.org/2000/01/rdf-schema#label> "Gerätewagen-Meßtechnik" .
+<http://www.solide-projekt.de/resource/gw-meß> <http://www.w3.org/2000/01/rdf-schema#label> "GW-Meß" .
+<http://www.solide-projekt.de/resource/fm> <http://www.w3.org/2000/01/rdf-schema#label> "Feuerwehrmann" .
+<http://www.solide-projekt.de/resource/fm> <http://www.w3.org/2000/01/rdf-schema#label> "FM" .
+<http://www.solide-projekt.de/resource/pol> <http://www.w3.org/2000/01/rdf-schema#label> "Polizei" .
+<http://www.solide-projekt.de/resource/pol> <http://www.w3.org/2000/01/rdf-schema#label> "Pol" .
+<http://www.solide-projekt.de/resource/sz> <http://www.w3.org/2000/01/rdf-schema#label> "Sanitätszug" .
+<http://www.solide-projekt.de/resource/sz> <http://www.w3.org/2000/01/rdf-schema#label> "SZ" .
+<http://www.solide-projekt.de/resource/ks1> <http://www.w3.org/2000/01/rdf-schema#label> "Kraftspritze" .
+<http://www.solide-projekt.de/resource/ks1> <http://www.w3.org/2000/01/rdf-schema#label> "KS" .
+<http://www.solide-projekt.de/resource/vdrs> <http://www.w3.org/2000/01/rdf-schema#label> "Verband deutscher Rettungssanitäter" .
+<http://www.solide-projekt.de/resource/vdrs> <http://www.w3.org/2000/01/rdf-schema#label> "VDRS" .
+<http://www.solide-projekt.de/resource/wf> <http://www.w3.org/2000/01/rdf-schema#label> "Wehrführer" .
+<http://www.solide-projekt.de/resource/wf> <http://www.w3.org/2000/01/rdf-schema#label> "WF" .
+<http://www.solide-projekt.de/resource/hdf> <http://www.w3.org/2000/01/rdf-schema#label> "Heißdekontaminierungsfahrzeug" .
+<http://www.solide-projekt.de/resource/hdf> <http://www.w3.org/2000/01/rdf-schema#label> "HDF" .
+<http://www.solide-projekt.de/resource/lfs> <http://www.w3.org/2000/01/rdf-schema#label> "Landesfeuerwehrschule" .
+<http://www.solide-projekt.de/resource/lfs> <http://www.w3.org/2000/01/rdf-schema#label> "LFS" .
+<http://www.solide-projekt.de/resource/gembm> <http://www.w3.org/2000/01/rdf-schema#label> "Gemeindebrandmeister" .
+<http://www.solide-projekt.de/resource/gembm> <http://www.w3.org/2000/01/rdf-schema#label> "GemBM" .
+<http://www.solide-projekt.de/resource/tf> <http://www.w3.org/2000/01/rdf-schema#label> "Transportfahrzeug (LKW)" .
+<http://www.solide-projekt.de/resource/tf> <http://www.w3.org/2000/01/rdf-schema#label> "TF" .
+<http://www.solide-projekt.de/resource/öswf> <http://www.w3.org/2000/01/rdf-schema#label> "Ölspur-Waschsaugfahrzeug " .
+<http://www.solide-projekt.de/resource/öswf> <http://www.w3.org/2000/01/rdf-schema#label> "ÖSWF" .
+<http://www.solide-projekt.de/resource/mz> <http://www.w3.org/2000/01/rdf-schema#label> "Musikzug" .
+<http://www.solide-projekt.de/resource/mz> <http://www.w3.org/2000/01/rdf-schema#label> "MZ" .
+<http://www.solide-projekt.de/resource/ortsf> <http://www.w3.org/2000/01/rdf-schema#label> "Ortsfeuerwehr" .
+<http://www.solide-projekt.de/resource/ortsf> <http://www.w3.org/2000/01/rdf-schema#label> "OrtsF" .
+<http://www.solide-projekt.de/resource/s-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "Schnellangriffsrohr" .
+<http://www.solide-projekt.de/resource/s-rohr> <http://www.w3.org/2000/01/rdf-schema#label> "S-Rohr" .
+<http://www.solide-projekt.de/resource/wla> <http://www.w3.org/2000/01/rdf-schema#label> "Wechselladerabrollbehälter" .
+<http://www.solide-projekt.de/resource/wla> <http://www.w3.org/2000/01/rdf-schema#label> "WLA" .
+<http://www.solide-projekt.de/resource/swa> <http://www.w3.org/2000/01/rdf-schema#label> "Schaum-Wasserwerferanhänger (FwA-SWW)" .
+<http://www.solide-projekt.de/resource/swa> <http://www.w3.org/2000/01/rdf-schema#label> "SWA" .
+<http://www.solide-projekt.de/resource/kathd> <http://www.w3.org/2000/01/rdf-schema#label> "Katastrophen-Hilfsdienst" .
+<http://www.solide-projekt.de/resource/kathd> <http://www.w3.org/2000/01/rdf-schema#label> "KatHD" .
+<http://www.solide-projekt.de/resource/kdt1> <http://www.w3.org/2000/01/rdf-schema#label> "Kommandantin" .
+<http://www.solide-projekt.de/resource/kdt1> <http://www.w3.org/2000/01/rdf-schema#label> "Kdt" .
+<http://www.solide-projekt.de/resource/rtz> <http://www.w3.org/2000/01/rdf-schema#label> "Rettungszug der DB" .
+<http://www.solide-projekt.de/resource/rtz> <http://www.w3.org/2000/01/rdf-schema#label> "RTZ" .
+<http://www.solide-projekt.de/resource/hörg> <http://www.w3.org/2000/01/rdf-schema#label> "Höhenrettungsgruppe" .
+<http://www.solide-projekt.de/resource/hörg> <http://www.w3.org/2000/01/rdf-schema#label> "HöRG" .
+<http://www.solide-projekt.de/resource/lna> <http://www.w3.org/2000/01/rdf-schema#label> "Leitender Notarzt" .
+<http://www.solide-projekt.de/resource/lna> <http://www.w3.org/2000/01/rdf-schema#label> "LNA" .
+<http://www.solide-projekt.de/resource/abs> <http://www.w3.org/2000/01/rdf-schema#label> "Antiblockiersystem" .
+<http://www.solide-projekt.de/resource/abs> <http://www.w3.org/2000/01/rdf-schema#label> "ABS" .
+<http://www.solide-projekt.de/resource/stbm> <http://www.w3.org/2000/01/rdf-schema#label> "Stadtbrandmeister" .
+<http://www.solide-projekt.de/resource/stbm> <http://www.w3.org/2000/01/rdf-schema#label> "StBM" .
+<http://www.solide-projekt.de/resource/feuerworgvo> <http://www.w3.org/2000/01/rdf-schema#label> "Verordnung über die Organisation  Stärke u. Ausrüstung der öffentl. Feuerwehr" .
+<http://www.solide-projekt.de/resource/feuerworgvo> <http://www.w3.org/2000/01/rdf-schema#label> "FeuerwOrgVO" .
+<http://www.solide-projekt.de/resource/befü> <http://www.w3.org/2000/01/rdf-schema#label> "Bereichsführer" .
+<http://www.solide-projekt.de/resource/befü> <http://www.w3.org/2000/01/rdf-schema#label> "BeFü" .
 <http://www.solide-projekt.de/resource/grukw> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Feuerwehrfahrzeug" .
 <http://www.solide-projekt.de/resource/gw-acs> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "RüstGerätewagen" .
 <http://www.solide-projekt.de/resource/asw> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "Feuerwehrfahrzeug" .

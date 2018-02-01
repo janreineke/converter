@@ -65,7 +65,7 @@ public class ApacheConverter {
 
 		// write rdf turtle to file; Ontologie & Klassen
 		RDFDataMgr.write(new FileOutputStream(output_ontologie), model1, Lang.NT);
-		RDFDataMgr.write(new FileOutputStream(output_ontologie), model2, Lang.NT);
+		RDFDataMgr.write(new FileOutputStream(output_ontologie,true), model2, Lang.NT);
 		// RDFDataMgr.write(System.out, model2,Lang.NT) ;
 		RDFDataMgr.write(new FileOutputStream(output_klassen), model0, Lang.NT);
 
